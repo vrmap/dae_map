@@ -1,0 +1,877 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.56.9 76e5016d">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2021-06-17T14:13:08Z" areas="2021-06-17T13:54:38Z"/>
+
+  <node id="1521824171" lat="45.4351343" lon="10.9846565">
+    <tag k="addr:city" v="Verona"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="2/B"/>
+    <tag k="addr:postcode" v="37122"/>
+    <tag k="addr:street" v="Piazza Santo Spirito"/>
+    <tag k="defibrillator:location" v="L'apparato è installato a sinistra dell'ingresso della farmacia"/>
+    <tag k="emergency" v="defibrillator"/>
+    <tag k="name" v="Farmacia Comunale Grattacielo"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="3321665761" lat="45.3467424" lon="10.8813710">
+    <tag k="access" v="private"/>
+    <tag k="addr:city" v="Povegliano Veronese"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="37064"/>
+    <tag k="addr:street" v="Piazza IV Novembre"/>
+    <tag k="emergency" v="defibrillator"/>
+    <tag k="name" v="Circolo Noi Il Gabbiano"/>
+    <tag k="name:en" v="AED"/>
+    <tag k="operator" v="Circolo Noi Il Gabbiano"/>
+  </node>
+  <node id="3857631085" lat="45.3766256" lon="11.1258630">
+    <tag k="addr:city" v="Zevio"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="44"/>
+    <tag k="addr:postcode" v="37059"/>
+    <tag k="addr:street" v="Via Aldo Moro"/>
+    <tag k="emergency" v="defibrillator"/>
+  </node>
+  <node id="4047417816" lat="45.6223081" lon="11.0295068">
+    <tag k="access" v="yes"/>
+    <tag k="addr:city" v="Bosco Chiesanuova"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="35"/>
+    <tag k="addr:postcode" v="37021"/>
+    <tag k="addr:street" v="Piazza della Chiesa"/>
+    <tag k="defibrillator:location" v="L'apparato è installato nel tunnel che collega Piazza della Chiesa a Piazza Guglielmo Marconi"/>
+    <tag k="emergency" v="defibrillator"/>
+    <tag k="indoor" v="no"/>
+    <tag k="name" v="Municipio Bosco Chiesanuova"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="operator" v="Comune Bosco Chiesanuova"/>
+    <tag k="outdoor" v="yes"/>
+  </node>
+  <node id="4171614553" lat="45.3468939" lon="10.8808229">
+    <tag k="access" v="yes"/>
+    <tag k="addr:city" v="Povegliano Veronese"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="37064"/>
+    <tag k="addr:street" v="Piazza IV Novembre"/>
+    <tag k="defibrillator:location" v="L'apparato è installato nel vialetto di accesso di La quercia di Adamo dopo un cancello che talvolta è chiuso."/>
+    <tag k="emergency" v="defibrillator"/>
+    <tag k="mapillary" v="bnBKkKRrTyfOK2AXWVDHJQ"/>
+    <tag k="name" v="La quercia di Abramo"/>
+    <tag k="name:en" v="AED"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="operator" v="Comune di Povegliano Veronese"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="4296566208" lat="45.4383818" lon="10.9914400">
+    <tag k="addr:city" v="Verona"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="28"/>
+    <tag k="addr:postcode" v="37121"/>
+    <tag k="addr:street" v="Piazza Brà"/>
+    <tag k="defibrillator:location" v="L'apparato è installato a destra dell'ingresso della Farmacia dietro la colonna d'angolo del porticato"/>
+    <tag k="emergency" v="defibrillator"/>
+    <tag k="name" v="Farmacia Internazionale"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="outdoor" v="yes"/>
+  </node>
+  <node id="4296575199" lat="45.5470319" lon="10.7193239">
+    <tag k="access" v="yes"/>
+    <tag k="addr:city" v="Bardolino"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:postcode" v="37011"/>
+    <tag k="addr:street" v="Lungolago Francesco Lenotti"/>
+    <tag k="defibrillator:location" v="L'apparato è installato sulla parete ovest del Municipio di fronte lago"/>
+    <tag k="emergency" v="defibrillator"/>
+    <tag k="name" v="Municipio di Bardolino"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="outdoor" v="yes"/>
+  </node>
+  <node id="4296587220" lat="45.3497852" lon="10.8851135">
+    <tag k="addr:city" v="Povegliano Veronese"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="12"/>
+    <tag k="addr:postcode" v="37064"/>
+    <tag k="addr:street" v="Via Fratelli Rosselli"/>
+    <tag k="emergency" v="defibrillator"/>
+    <tag k="indoor" v="yes"/>
+    <tag k="name" v="Centro Anziani Povegliano Veronese"/>
+    <tag k="operator" v="Comune di Povegliano Veronese"/>
+  </node>
+  <node id="4469411485" lat="45.4386301" lon="10.9453037">
+    <tag k="emergency" v="defibrillator"/>
+    <tag k="indoor" v="no"/>
+  </node>
+  <node id="4824981289" lat="45.4330404" lon="10.8899887">
+    <tag k="access" v="yes"/>
+    <tag k="addr:city" v="Lugagnano"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:postcode" v="37060"/>
+    <tag k="addr:street" v="Via 26 Aprile"/>
+    <tag k="defibrillator:location" v="L'apparato è installato a destra dell'ingresso della sede staccata dell'Anagrafe di Lugagnano"/>
+    <tag k="emergency" v="defibrillator"/>
+    <tag k="mapillary" v="EhP5TVHoJQdRS7Lc_17PmQ"/>
+    <tag k="name" v="Anagrafe di Lugagnano"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="outdoor" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="5088993115" lat="45.6276071" lon="10.7217782">
+    <tag k="addr:city" v="San Zeno di Montagna"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:street" v="Via Perare"/>
+    <tag k="emergency" v="defibrillator"/>
+    <tag k="name" v="Campo sportivo"/>
+  </node>
+  <node id="5142809554" lat="45.4415985" lon="10.9805015">
+    <tag k="emergency" v="defibrillator"/>
+  </node>
+  <node id="5214694804" lat="45.4169902" lon="10.8960947">
+    <tag k="access" v="yes"/>
+    <tag k="addr:city" v="Caselle di Sommacampagna"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="49"/>
+    <tag k="addr:street" v="Via Scuole"/>
+    <tag k="defibrillator:location" v="L'apparato è installato presso l'ingresso della Boblioteca Comunale."/>
+    <tag k="emergency" v="defibrillator"/>
+    <tag k="name" v="Biblioteca di Caselle di Sommacampagna"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="5221623457" lat="45.4120515" lon="10.9198263">
+    <tag k="access" v="permissive"/>
+    <tag k="emergency" v="defibrillator"/>
+    <tag k="indoor" v="yes"/>
+    <tag k="name" v="Mercato Ortofrutticolo"/>
+  </node>
+  <node id="5309066565" lat="45.4581577" lon="10.9470050">
+    <tag k="access" v="yes"/>
+    <tag k="defibrillator:location" v="a muro"/>
+    <tag k="emergency" v="defibrillator"/>
+    <tag k="indoor" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="5370532799" lat="45.4293967" lon="10.9831731">
+    <tag k="access" v="yes"/>
+    <tag k="addr:city" v="Verona"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:postcode" v="37138"/>
+    <tag k="addr:street" v="Piazzale Venticinque Aprile"/>
+    <tag k="defibrillator:location" v="L'apparato è installato nella zona taxi della stazione treni di Porta Nuova"/>
+    <tag k="defibrillator:location:en" v="taxi stop position"/>
+    <tag k="emergency" v="defibrillator"/>
+    <tag k="name" v="Stazione Porta Nuova"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="outdoor" v="yes"/>
+  </node>
+  <node id="5582423854" lat="45.4144376" lon="10.9598467">
+    <tag k="access" v="customers"/>
+    <tag k="addr:city" v="Verona"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="28"/>
+    <tag k="addr:street" v="Via Tanaro"/>
+    <tag k="defibrillator:location" v="Installato a parete all'interno della piscina coperta, entrare e girare subito a sinistra"/>
+    <tag k="emergency" v="defibrillator"/>
+    <tag k="indoor" v="yes"/>
+    <tag k="name" v="Centro Sportivo Golosine"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="5596680060" lat="45.3929088" lon="10.9129053">
+    <tag k="addr:city" v="Dossobuono"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:postcode" v="37062"/>
+    <tag k="addr:street" v="Via della Maddalena"/>
+    <tag k="emergency" v="defibrillator"/>
+    <tag k="indoor" v="yes"/>
+    <tag k="name" v="Palazzetto dello Sport"/>
+  </node>
+  <node id="5596680061" lat="45.3734097" lon="10.9376058">
+    <tag k="description" v="Installato presso spogliatoio arbitri"/>
+    <tag k="emergency" v="defibrillator"/>
+    <tag k="indoor" v="yes"/>
+    <tag k="name" v="Campo sportivo La Rizza"/>
+  </node>
+  <node id="5783302153" lat="45.2972136" lon="10.8979460">
+    <tag k="emergency" v="defibrillator"/>
+  </node>
+  <node id="5860485336" lat="45.5991816" lon="11.0307035">
+    <tag k="access" v="yes"/>
+    <tag k="addr:city" v="Corbiolo"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:postcode" v="37021"/>
+    <tag k="addr:street" v="Via Don A. Squaranti"/>
+    <tag k="defibrillator:location" v="L'apparato è intallato a destra della porta d'ingresso"/>
+    <tag k="emergency" v="defibrillator"/>
+    <tag k="mapillary" v="i_j3SfEBnHpkK05hXlzV-Q"/>
+    <tag k="name" v="Chiesa di Corbiolo"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="operator" v="Comune di Bosco Chiesanuova"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="5860589735" lat="45.6244232" lon="11.0518450">
+    <tag k="access" v="yes"/>
+    <tag k="addr:city" v="Valdiporro"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="37"/>
+    <tag k="addr:postcode" v="37021"/>
+    <tag k="addr:street" v="Piazza XIII Comuni"/>
+    <tag k="defibrillator:location" v="L'apparato è installato a destra dell'ingresso della Chiesa"/>
+    <tag k="emergency" v="defibrillator"/>
+    <tag k="name" v="Chiesa di Valdiporro"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="operator" v="Comune Bosco Chiesanuova"/>
+    <tag k="outdoor" v="yes"/>
+  </node>
+  <node id="5860723075" lat="45.5955339" lon="11.0046697">
+    <tag k="access" v="yes"/>
+    <tag k="emergency" v="defibrillator"/>
+    <tag k="indoor" v="no"/>
+    <tag k="name" v="Scuola di Lughezzano"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="operator" v="Comune di Bosco Chiesanuova"/>
+  </node>
+  <node id="6229421216" lat="45.4431161" lon="10.9974487">
+    <tag k="access" v="yes"/>
+    <tag k="addr:city" v="Verona"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:postcode" v="37121"/>
+    <tag k="addr:street" v="Piazza delle Erbe"/>
+    <tag k="defibrillator:location" v="L'apparato è installato a sinistra dell'ingresso della Farmacia"/>
+    <tag k="emergency" v="defibrillator"/>
+    <tag k="indoor" v="no"/>
+    <tag k="name" v="Farmacia Centrale"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="outdoor" v="yes"/>
+  </node>
+  <node id="6229421217" lat="45.4210520" lon="10.9765082">
+    <tag k="access" v="yes"/>
+    <tag k="addr:city" v="Verona"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="53"/>
+    <tag k="addr:postcode" v="37136"/>
+    <tag k="addr:street" v="Via Giovanna Murari Brà"/>
+    <tag k="defibrillator:location" v="L'apparato è installato sul pilastro a destra dell'ingresso della Farmacia"/>
+    <tag k="emergency" v="defibrillator"/>
+    <tag k="name" v="La Mia Farmacia"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="outdoor" v="yes"/>
+  </node>
+  <node id="6310659739" lat="45.4746040" lon="10.8475254">
+    <tag k="access" v="yes"/>
+    <tag k="addr:city" v="Bussolengo"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:postcode" v="37012"/>
+    <tag k="addr:street" v="Piazza della Libertà"/>
+    <tag k="defibrillator:location" v="L'apparato è installato in un angolo a destra dell'ingresso del Municipio"/>
+    <tag k="emergency" v="defibrillator"/>
+    <tag k="indoor" v="no"/>
+    <tag k="name" v="Municipio di Bussolengo"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="outdoor" v="yes"/>
+  </node>
+  <node id="6338479614" lat="45.4423974" lon="10.7496822">
+    <tag k="access" v="yes"/>
+    <tag k="defibrillator:location" v="installato di fianco alla dx della porta di ingresso del ristorante"/>
+    <tag k="emergency" v="defibrillator"/>
+    <tag k="name" v="Campi sportivi polivalenti comunali"/>
+    <tag k="opening_hours" v="08:00-00:00"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikimedia_commons" v="File:Defibrillator at playgrounds in Castelnuovo (Verona, ITALY).jpg"/>
+  </node>
+  <node id="6375389034" lat="45.4572529" lon="10.7091042">
+    <tag k="access" v="yes"/>
+    <tag k="emergency" v="defibrillator"/>
+    <tag k="name" v="Gardaland Aladino"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="6375389035" lat="45.4560947" lon="10.7091258">
+    <tag k="access" v="yes"/>
+    <tag k="emergency" v="defibrillator"/>
+    <tag k="name" v="Gardaland corsari"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="6375389036" lat="45.4530216" lon="10.7152715">
+    <tag k="access" v="yes"/>
+    <tag k="emergency" v="defibrillator"/>
+    <tag k="name" v="Gardaland bancomat"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="6442096293" lat="45.6856043" lon="11.0862049">
+    <tag k="access" v="yes"/>
+    <tag k="addr:city" v="Bosco Chiesanuova"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:place" v="Malga San Giorgio"/>
+    <tag k="addr:postcode" v="37021"/>
+    <tag k="addr:street" v="Malga San Giorgio"/>
+    <tag k="defibrillator:location" v="L'apparato è installato a destra dell'ingresso del ristorante Al Caminetto."/>
+    <tag k="emergency" v="defibrillator"/>
+    <tag k="indoor" v="no"/>
+    <tag k="name" v="Ristorante Al Caminetto"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="operator" v="Comune di Bosco Chiesanuova"/>
+  </node>
+  <node id="6442096296" lat="45.3913276" lon="10.9156164">
+    <tag k="access" v="yes"/>
+    <tag k="addr:city" v="Dossobuono"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="34"/>
+    <tag k="addr:postcode" v="37062"/>
+    <tag k="addr:street" v="Via Stazione"/>
+    <tag k="defibrillator:location" v="L'apparato è installato a sinistra dell'ingresso della Farmacia Comunale."/>
+    <tag k="emergency" v="defibrillator"/>
+    <tag k="indoor" v="no"/>
+    <tag k="name" v="Farmacia Comunale"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="outdoor" v="yes"/>
+  </node>
+  <node id="6442096297" lat="45.3947582" lon="10.9133447">
+    <tag k="access" v="yes"/>
+    <tag k="addr:city" v="Dossobuono"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="26"/>
+    <tag k="addr:postcode" v="37062"/>
+    <tag k="addr:street" v="Viale Europa"/>
+    <tag k="defibrillator:location" v="L'apparato è installato a destra dell'ingresso della Delegazione Comunale."/>
+    <tag k="emergency" v="defibrillator"/>
+    <tag k="indoor" v="no"/>
+    <tag k="name" v="Delegazione Comunale"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="outdoor" v="yes"/>
+  </node>
+  <node id="6448444740" lat="45.3945459" lon="10.9148417">
+    <tag k="emergency" v="defibrillator"/>
+    <tag k="indoor" v="yes"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="6521563338" lat="45.7692131" lon="10.8644427">
+    <tag k="emergency" v="defibrillator"/>
+  </node>
+  <node id="6521583530" lat="45.7259373" lon="10.7811190">
+    <tag k="emergency" v="defibrillator"/>
+    <tag k="indoor" v="no"/>
+  </node>
+  <node id="6521588642" lat="45.7661537" lon="10.8133141">
+    <tag k="emergency" v="defibrillator"/>
+    <tag k="indoor" v="yes"/>
+  </node>
+  <node id="6521956762" lat="45.7082948" lon="10.7670811">
+    <tag k="emergency" v="defibrillator"/>
+    <tag k="indoor" v="no"/>
+  </node>
+  <node id="6526620187" lat="45.6110708" lon="10.7018964">
+    <tag k="access" v="yes"/>
+    <tag k="addr:city" v="Albisano"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:street" v="Via Oliveti"/>
+    <tag k="defibrillator:location" v="L'apparato è installato all'esterno di fronte alla sala civica."/>
+    <tag k="emergency" v="defibrillator"/>
+    <tag k="indoor" v="no"/>
+    <tag k="name" v="Via Oliveti"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="6568024368" lat="45.7048489" lon="10.8303811">
+    <tag k="emergency" v="defibrillator"/>
+    <tag k="indoor" v="yes"/>
+  </node>
+  <node id="6580022573" lat="45.5636639" lon="11.1567101">
+    <tag k="access" v="yes"/>
+    <tag k="addr:city" v="Badia Calavena"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:street" v="Piazza del Mercato"/>
+    <tag k="defibrillator:location" v="L'apparato è installato nei giardini di Piazza Mercato"/>
+    <tag k="emergency" v="defibrillator"/>
+    <tag k="name" v="Piazza Mercato"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="6580022574" lat="45.5205301" lon="11.1641552">
+    <tag k="defibrillator:location" v="L'apparato è installato sulla desta dell'ingresso della Chiesa della Disciplina"/>
+    <tag k="emergency" v="defibrillator"/>
+    <tag k="name" v="Chiesa della Disciplina"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="6580022575" lat="45.5086007" lon="11.1653736">
+    <tag k="addr:city" v="Tregnago"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:postcode" v="37039"/>
+    <tag k="addr:street" v="Via Architetto G.C. Pellegrini Cipolla"/>
+    <tag k="defibrillator:location" v="L'apparato è installato all'interno del Palazzetto dello Sport prina dell'ingresso della palestra"/>
+    <tag k="emergency" v="defibrillator"/>
+    <tag k="indoor" v="yes"/>
+    <tag k="name" v="Palazzetto dello Sport"/>
+  </node>
+  <node id="6580022576" lat="45.4300281" lon="11.0716090">
+    <tag k="addr:city" v="San Martino Buonalbergo"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="Viale Apollinare Veronesi"/>
+    <tag k="defibrillator:location" v="L'apparato è installato all' interno guardiola AIA ingresso stabilimento"/>
+    <tag k="emergency" v="defibrillator"/>
+    <tag k="indoor" v="yes"/>
+    <tag k="name" v="Guardiola ingresso AIA"/>
+  </node>
+  <node id="6580022577" lat="45.4125283" lon="11.0935843">
+    <tag k="addr:city" v="San Martino Buonalbergo"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="37036"/>
+    <tag k="addr:street" v="Viale del Commercio"/>
+    <tag k="emergency" v="defibrillator"/>
+    <tag k="indoor" v="yes"/>
+    <tag k="name" v="Corti Venete"/>
+  </node>
+  <node id="6636558007" lat="45.6955255" lon="11.1188534">
+    <tag k="addr:city" v="Selva di Progno"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:place" v="Revolto"/>
+    <tag k="addr:postcode" v="37030"/>
+    <tag k="addr:street" v="Via Revolto di Sopra"/>
+    <tag k="defibrillator:location" v="L'apparato è installato all'interno dietro il bancone."/>
+    <tag k="emergency" v="defibrillator"/>
+    <tag k="indoor" v="yes"/>
+    <tag k="name" v="Rifugio Revolto"/>
+  </node>
+  <node id="6652013830" lat="45.6259484" lon="11.0717495">
+    <tag k="access" v="yes"/>
+    <tag k="addr:city" v="San Francesco"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:street" v="Via San Francesco"/>
+    <tag k="emergency" v="defibrillator"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="6680879791" lat="45.3948603" lon="10.9140465">
+    <tag k="access" v="yes"/>
+    <tag k="addr:city" v="Dossobuono"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:postcode" v="37062"/>
+    <tag k="addr:street" v="Piazza Don Girelli"/>
+    <tag k="defibrillator:location" v="L'apparato è installato all'esterno del parco giochi parrocchiale."/>
+    <tag k="emergency" v="defibrillator"/>
+    <tag k="indoor" v="no"/>
+    <tag k="name" v="Chiesa Dossobuono"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="6700331458" lat="45.4632546" lon="10.9803760">
+    <tag k="access" v="customers"/>
+    <tag k="addr:city" v="Verona"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="37124"/>
+    <tag k="addr:street" v="Via Fratelli Ballerini"/>
+    <tag k="defibrillator:location" v="L'apparato è intallato nell'ingresso vicino alle casse"/>
+    <tag k="emergency" v="defibrillator"/>
+    <tag k="indoor" v="yes"/>
+    <tag k="name" v="Piscine Santini"/>
+  </node>
+  <node id="6761560007" lat="45.4375786" lon="11.0039650">
+    <tag k="emergency" v="defibrillator"/>
+    <tag k="indoor" v="yes"/>
+    <tag k="name" v="Scuola elementare Massalongo"/>
+  </node>
+  <node id="6762272810" lat="45.4206457" lon="11.2484577">
+    <tag k="addr:city" v="Soave"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:street" v="Piazza Mercato dei Grani"/>
+    <tag k="defibrillator:location" v="L'apparato è installato a sinistra dell'ingresso della Banca"/>
+    <tag k="emergency" v="defibrillator"/>
+    <tag k="indoor" v="no"/>
+    <tag k="name" v="Unicredit"/>
+    <tag k="opening_hours" v="24/7"/>
+  </node>
+  <node id="6804836885" lat="45.3978755" lon="11.2681881">
+    <tag k="access" v="customers"/>
+    <tag k="emergency" v="defibrillator"/>
+    <tag k="indoor" v="yes"/>
+    <tag k="name" v="Scuola Elementare Gino Sandri"/>
+  </node>
+  <node id="6887935049" lat="45.5229418" lon="11.0180019">
+    <tag k="defibrillator:location" v="L'apparato è installato presso la segreteria del campo sportivo"/>
+    <tag k="emergency" v="defibrillator"/>
+    <tag k="name" v="Centro sportivo di Grezzana"/>
+  </node>
+  <node id="6969339967" lat="45.4401840" lon="11.0124541">
+    <tag k="access" v="yes"/>
+    <tag k="addr:city" v="Verona"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="71"/>
+    <tag k="addr:postcode" v="37129"/>
+    <tag k="addr:street" v="Via San Nazaro"/>
+    <tag k="defibrillator:location" v="L'apparato è installato a destra dell'ingresso della Farmacia"/>
+    <tag k="emergency" v="defibrillator"/>
+    <tag k="indoor" v="no"/>
+    <tag k="name" v="Farmacia alla Concezione"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikimedia_commons" v="File:Defibrillatore Farmacia alla Concezione.jpg"/>
+  </node>
+  <node id="6989111487" lat="45.3932220" lon="10.9120940">
+    <tag k="addr:city" v="Dossobuono"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="37062"/>
+    <tag k="addr:street" v="Via Brigate Alpine"/>
+    <tag k="emergency" v="defibrillator"/>
+    <tag k="indoor" v="yes"/>
+    <tag k="name" v="Scuola Primaria Vittorio Locchi"/>
+  </node>
+  <node id="7024031974" lat="45.6931091" lon="10.9121820">
+    <tag k="access" v="yes"/>
+    <tag k="emergency" v="defibrillator"/>
+    <tag k="opening_hours" v="24/7"/>
+  </node>
+  <node id="7037808275" lat="45.3950203" lon="11.2682484">
+    <tag k="access" v="yes"/>
+    <tag k="addr:city" v="San Bonifacio"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:postcode" v="37047"/>
+    <tag k="addr:street" v="Via San Giovanni Bosco"/>
+    <tag k="defibrillator:location" v="L'apparato è installato sul muro esterno del cinema teatro."/>
+    <tag k="emergency" v="defibrillator"/>
+    <tag k="mapillary" v="qhg-eYh3FGWwYMzIqUTZjA"/>
+    <tag k="name" v="Cinema Teatro Centrale"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="outdoor" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="7037808276" lat="45.3955694" lon="11.2705200">
+    <tag k="access" v="yes"/>
+    <tag k="addr:city" v="San Bonifacio"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:postcode" v="37047"/>
+    <tag k="addr:street" v="Piazza della Costituzione"/>
+    <tag k="defibrillator:location" v="L'apparato è installato a sinistra dell'ingresso degli uffici comunali."/>
+    <tag k="emergency" v="defibrillator"/>
+    <tag k="mapillary" v="msS6_BqPE_xzbD8KO6cWjw"/>
+    <tag k="name" v="Uffici comunali"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="outdoor" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="7042223441" lat="45.3509813" lon="10.8460208">
+    <tag k="access" v="yes"/>
+    <tag k="addr:city" v="Villafranca di Verona"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="24"/>
+    <tag k="addr:postcode" v="37069"/>
+    <tag k="addr:street" v="Corso Giuseppe Garibaldi"/>
+    <tag k="defibrillator:location" v="L'apparato è installato a sinistra dell'ingresso del Municipio"/>
+    <tag k="emergency" v="defibrillator"/>
+    <tag k="mapillary" v="uvJ9tque7Pqb6L7FnjvOMA"/>
+    <tag k="name" v="Municipio Villafranca di Verona"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="outdoor" v="yes"/>
+  </node>
+  <node id="7048465956" lat="45.3984265" lon="10.9761091">
+    <tag k="access" v="customers"/>
+    <tag k="addr:city" v="Verona"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="26F"/>
+    <tag k="addr:postcode" v="37135"/>
+    <tag k="addr:street" v="Via dell'Esperanto"/>
+    <tag k="defibrillator:location" v="L'apparato è installato nella zona delle casse."/>
+    <tag k="emergency" v="defibrillator"/>
+    <tag k="indoor" v="yes"/>
+    <tag k="name" v="Bricoman"/>
+    <tag k="opening_hours" v="Mo-Sa 07:00-20:30; Su 08:30-20:00"/>
+    <tag k="operator" v="Bricoman"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="7051551215" lat="45.3580956" lon="10.8392800">
+    <tag k="addr:city" v="Villafranca di Verona"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="18"/>
+    <tag k="addr:postcode" v="37069"/>
+    <tag k="addr:street" v="Via Marsala"/>
+    <tag k="emergency" v="defibrillator"/>
+    <tag k="indoor" v="yes"/>
+    <tag k="name" v="Istituto Bolisani"/>
+  </node>
+  <node id="7087767995" lat="45.5177306" lon="10.9080062">
+    <tag k="access" v="yes"/>
+    <tag k="addr:city" v="San Floriano"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="emergency" v="defibrillator"/>
+    <tag k="name" v="Pieve Romanica"/>
+  </node>
+  <node id="7127690480" lat="45.5743266" lon="10.7075289">
+    <tag k="access" v="yes"/>
+    <tag k="addr:city" v="Garda"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="15"/>
+    <tag k="addr:postcode" v="37016"/>
+    <tag k="addr:street" v="Lungolago Regina Adelaide"/>
+    <tag k="defibrillator:location" v="L'apparato è installato a destra dell'ingresso del Municipio."/>
+    <tag k="emergency" v="defibrillator"/>
+    <tag k="mapillary" v="RT0Nt2hae6Y9bVVysw8luA"/>
+    <tag k="name" v="Municipio di Garda"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="7127710790" lat="45.5522052" lon="10.7186963">
+    <tag k="addr:city" v="Bardolino"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:postcode" v="37011"/>
+    <tag k="addr:street" v="Piazzale Gramsci"/>
+    <tag k="emergency" v="defibrillator"/>
+    <tag k="indoor" v="yes"/>
+    <tag k="name" v="Club della Mezza Eta'"/>
+  </node>
+  <node id="7127710791" lat="45.5519824" lon="10.7181112">
+    <tag k="addr:city" v="Bardolino"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="10"/>
+    <tag k="addr:postcode" v="37011"/>
+    <tag k="addr:street" v="Lungo Lago Preite"/>
+    <tag k="emergency" v="defibrillator"/>
+    <tag k="indoor" v="yes"/>
+    <tag k="name" v="Centro Nautico Bardolino"/>
+  </node>
+  <node id="7144865890" lat="45.4356734" lon="10.9933830">
+    <tag k="emergency" v="defibrillator"/>
+    <tag k="indoor" v="yes"/>
+    <tag k="name" v="Scuole alle Stimmate"/>
+  </node>
+  <node id="7168646404" lat="45.3950184" lon="11.0158405">
+    <tag k="access" v="customers"/>
+    <tag k="addr:city" v="San Giovanni Lupatoto"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:postcode" v="37057"/>
+    <tag k="addr:street" v="Via Monte Cristallo"/>
+    <tag k="defibrillator:location" v="L'apparato è installato in fondo vicino all'officina biciclette"/>
+    <tag k="emergency" v="defibrillator"/>
+    <tag k="indoor" v="yes"/>
+    <tag k="name" v="Decathlon"/>
+    <tag k="opening_hours" v="Mo-Sa 09:00-21:00; Su 09:30-20:00"/>
+  </node>
+  <node id="7175470046" lat="45.3515383" lon="10.9977114">
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:street" v="Via Dolomiti"/>
+    <tag k="emergency" v="defibrillator"/>
+  </node>
+  <node id="7175470047" lat="45.3422553" lon="10.8847320">
+    <tag k="addr:city" v="Povegliano Veronese"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:street" v="Piazzale San Rocco"/>
+    <tag k="emergency" v="defibrillator"/>
+  </node>
+  <node id="7175470048" lat="45.3753912" lon="10.9182390">
+    <tag k="access" v="yes"/>
+    <tag k="addr:city" v="Alpo"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="77"/>
+    <tag k="addr:postcode" v="37062"/>
+    <tag k="addr:street" v="Via Luigi Bassani"/>
+    <tag k="defibrillator:location" v="L'apparato è installato a sinistra dell'ingresso della sede del Gruppo Alpini"/>
+    <tag k="emergency" v="defibrillator"/>
+    <tag k="name" v="Sede Gruppo Alpini"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="7204350430" lat="45.3536265" lon="10.7343104">
+    <tag k="access" v="yes"/>
+    <tag k="addr:city" v="Valeggio Sul Mincio"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="44"/>
+    <tag k="addr:postcode" v="37067"/>
+    <tag k="addr:street" v="Piazzale Carlo Alberto"/>
+    <tag k="defibrillator:location" v="L'apparato è installato a sinistra dell'Ufficio informazioni IAT"/>
+    <tag k="emergency" v="defibrillator"/>
+    <tag k="name" v="Ufficio informazioni IAT"/>
+    <tag k="opening_hours" v="24/7"/>
+  </node>
+  <node id="7274304327" lat="45.3907126" lon="10.9029168">
+    <tag k="access" v="customers"/>
+    <tag k="addr:city" v="Dossobuono"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:postcode" v="37062"/>
+    <tag k="addr:street" v="Via Borgo Bello"/>
+    <tag k="defibrillator:location" v="L'apparato è installato nell'area ristoro vicino alle casse"/>
+    <tag k="emergency" v="defibrillator"/>
+    <tag k="indoor" v="yes"/>
+    <tag k="name" v="Decathlon"/>
+    <tag k="opening_hours" v="Mo-Su 09:00-20:30"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikimedia_commons" v="File:Defibrillatore Decathlon Dossobuono.jpg"/>
+  </node>
+  <node id="7648382704" lat="45.6531551" lon="11.1226326">
+    <tag k="defibrillator:location" v="L'apparato è installato a destra dell'ingresso dell'Osteria Ljetzan"/>
+    <tag k="emergency" v="defibrillator"/>
+    <tag k="name" v="Osteria Ljetzan"/>
+    <tag k="opening_hours" v="24/7"/>
+  </node>
+  <node id="7731366888" lat="45.6891915" lon="10.8518234">
+    <tag k="access" v="yes"/>
+    <tag k="addr:city" v="Ferrara di Monte Baldo"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:place" v="Cambrigar"/>
+    <tag k="addr:postcode" v="37020"/>
+    <tag k="defibrillator:location" v="L'apparato è installato all'esterno del ristorante vicino ad un portone verde"/>
+    <tag k="emergency" v="defibrillator"/>
+    <tag k="name" v="Ristorante Albergo Al Cacciatore"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="wikimedia_commons" v="File:Defibrillatore Ferrara di Monte Baldo.jpg"/>
+  </node>
+  <node id="7742932860" lat="45.4432852" lon="10.9761795">
+    <tag k="emergency" v="defibrillator"/>
+    <tag k="indoor" v="no"/>
+    <tag k="operator" v="Croce Bianca Verona"/>
+  </node>
+  <node id="7742961442" lat="45.4564588" lon="10.9825654">
+    <tag k="emergency" v="defibrillator"/>
+    <tag k="indoor" v="no"/>
+    <tag k="operator" v="Parrocchia Sacro Cuore di Gesù"/>
+  </node>
+  <node id="7820434020" lat="45.5747815" lon="11.0381637">
+    <tag k="access" v="yes"/>
+    <tag k="addr:city" v="Cerro Veronese"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="52"/>
+    <tag k="addr:postcode" v="37020"/>
+    <tag k="addr:street" v="Piazza Alferia"/>
+    <tag k="defibrillator:location" v="L'apparato è installato a destra dell'ingresso della Farmacia"/>
+    <tag k="emergency" v="defibrillator"/>
+    <tag k="indoor" v="no"/>
+    <tag k="name" v="Farmacia Mainieri"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="wikimedia_commons" v="File:Defibrillatore Farmacia Cerro - Verona.jpg"/>
+  </node>
+  <node id="7951758410" lat="45.4199758" lon="10.9687220">
+    <tag k="emergency" v="defibrillator"/>
+    <tag k="indoor" v="yes"/>
+    <tag k="name" v="Oratorio Golosine"/>
+  </node>
+  <node id="8037314953" lat="45.4170440" lon="10.9273112">
+    <tag k="emergency" v="defibrillator"/>
+    <tag k="name" v="Dae"/>
+  </node>
+  <node id="8312009937" lat="45.5678927" lon="10.9919581">
+    <tag k="addr:city" v="Lugo"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:postcode" v="37023"/>
+    <tag k="addr:street" v="Via Domenico Da Lugo"/>
+    <tag k="emergency" v="defibrillator"/>
+    <tag k="name" v="Campo sportivo di Lugo"/>
+  </node>
+  <node id="8312009938" lat="45.5436199" lon="11.0025984">
+    <tag k="addr:city" v="Stallavena"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="37023"/>
+    <tag k="addr:street" v="Via Tinazzi"/>
+    <tag k="emergency" v="defibrillator"/>
+    <tag k="indoor" v="yes"/>
+    <tag k="name" v="Palestra di Stallavena"/>
+  </node>
+  <node id="8312009939" lat="45.5472528" lon="11.0030678">
+    <tag k="addr:city" v="Stallavena"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:street" v="Via Prealpi"/>
+    <tag k="emergency" v="defibrillator"/>
+    <tag k="name" v="Centro sportivo di Stallavena"/>
+  </node>
+  <node id="8312009942" lat="45.5185548" lon="11.0162559">
+    <tag k="addr:city" v="Grezzana"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="37023"/>
+    <tag k="addr:street" v="Via Roma"/>
+    <tag k="emergency" v="defibrillator"/>
+    <tag k="indoor" v="no"/>
+    <tag k="name" v="Comune di Grezzana"/>
+  </node>
+  <node id="8312009943" lat="45.5183418" lon="11.0154031">
+    <tag k="addr:city" v="Grezzana"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="24"/>
+    <tag k="addr:postcode" v="37023"/>
+    <tag k="addr:street" v="Viale della Rimembranza"/>
+    <tag k="defibrillator:location" v="L'apparato è installato nell'atrio della palestra della Scuola Media"/>
+    <tag k="emergency" v="defibrillator"/>
+    <tag k="indoor" v="yes"/>
+    <tag k="name" v="Scuola Primaria - IC &quot;Giovanni Pascoli&quot;"/>
+  </node>
+  <node id="8312843507" lat="45.5507461" lon="11.0223421">
+    <tag k="addr:city" v="Rosaro"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:postcode" v="37023"/>
+    <tag k="addr:street" v="Viale Rimembranza"/>
+    <tag k="emergency" v="defibrillator"/>
+    <tag k="indoor" v="yes"/>
+    <tag k="name" v="Canonica di Rosaro"/>
+  </node>
+  <node id="8314236229" lat="45.5219121" lon="11.0448794">
+    <tag k="addr:city" v="Romagnano"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:postcode" v="37023"/>
+    <tag k="addr:street" v="Via Villa Sale"/>
+    <tag k="defibrillator:location" v="L'apparato è installato all'interno nei pressi del bancone"/>
+    <tag k="emergency" v="defibrillator"/>
+    <tag k="indoor" v="yes"/>
+    <tag k="name" v="Campo sportivo di Romagnano"/>
+  </node>
+  <node id="8314236240" lat="45.5224075" lon="11.0215571">
+    <tag k="addr:city" v="Grezzana"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="37023"/>
+    <tag k="addr:street" v="Via Antonio Segni"/>
+    <tag k="defibrillator:location" v="L'apparato è installato all'interno nei pressi del bancone"/>
+    <tag k="emergency" v="defibrillator"/>
+    <tag k="indoor" v="yes"/>
+    <tag k="name" v="Biblioteca Comunale di Grezzana"/>
+  </node>
+  <node id="8411887316" lat="45.4486332" lon="10.9876270">
+    <tag k="access" v="yes"/>
+    <tag k="addr:city" v="Verona"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="2"/>
+    <tag k="addr:postcode" v="37126"/>
+    <tag k="addr:street" v="Via Ventiquattro Maggio"/>
+    <tag k="defibrillator:location" v="L'apparato è installato a sinistra dell'ingresso della Farmacia."/>
+    <tag k="emergency" v="defibrillator"/>
+    <tag k="name" v="Farmacia Martari"/>
+    <tag k="opening_hours" v="24/7"/>
+  </node>
+  <node id="8422759179" lat="45.3364837" lon="10.9234337">
+    <tag k="access" v="yes"/>
+    <tag k="addr:city" v="Isolalta"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:housenumber" v="40B"/>
+    <tag k="defibrillator:location" v="L'apparato è installato a destra dell'ingresso della sala civica Alcide de Gasperi"/>
+    <tag k="emergency" v="defibrillator"/>
+    <tag k="name" v="Sala Civica Alcide de Gasperi"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="8582691734" lat="45.1841097" lon="11.3032013">
+    <tag k="defibrillator:location" v="Ambiente aziendale nelle vicinanze della reception"/>
+    <tag k="emergency" v="defibrillator"/>
+    <tag k="indoor" v="yes"/>
+    <tag k="operator" v="Addetti alla sicurezza primo soccorso Sime SpA"/>
+  </node>
+  <node id="8594839714" lat="45.4431121" lon="11.0748229">
+    <tag k="access" v="yes"/>
+    <tag k="addr:city" v="Verona"/>
+    <tag k="addr:country" v="IT"/>
+    <tag k="addr:street" v="Via Falcona"/>
+    <tag k="defibrillator:location" v="L'apparato è installato presso il ponte sulla Fossa Murara"/>
+    <tag k="emergency" v="defibrillator"/>
+    <tag k="name" v="Percorso della Salute"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+
+</osm>
