@@ -1,1 +1,1 @@
-curl -G 'http://overpass-api.de/api/interpreter?data=%5Bout%3Axml%5D%5Btimeout%3A250%5D%3Barea%283600044107%29%2D%3E%2EsearchArea%3B%28node%5B%22emergency%22%3D%22defibrillator%22%5D%28area%2EsearchArea%29%3B%29%3Bout%3B%3E%3Bout%20skel%20qt%3B%0A' > 'aed.osm'
+curl -G 'http://overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A250%5D%3Barea%283600044107%29%2D%3E%2EsearchArea%3B%28node%5B%22emergency%22%3D%22defibrillator%22%5D%28area%2EsearchArea%29%3B%29%3Bout%3B%3E%3Bout%20skel%20qt%3B%0A' > 'aed.osm'
