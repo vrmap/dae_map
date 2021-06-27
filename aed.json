@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.56.9 76e5016d",
   "osm3s": {
-    "timestamp_osm_base": "2021-06-26T10:05:52Z",
-    "timestamp_areas_base": "2021-06-26T09:34:28Z",
+    "timestamp_osm_base": "2021-06-27T10:05:56Z",
+    "timestamp_areas_base": "2021-06-27T09:46:42Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -735,6 +735,7 @@
     "addr:country": "IT",
     "addr:street": "Via San Francesco",
     "emergency": "defibrillator",
+    "indoor": "no",
     "opening_hours": "24/7",
     "wheelchair": "yes"
   }
