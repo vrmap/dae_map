@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.56.9 76e5016d",
   "osm3s": {
-    "timestamp_osm_base": "2021-07-11T10:05:13Z",
-    "timestamp_areas_base": "2021-07-11T09:24:37Z",
+    "timestamp_osm_base": "2021-07-11T18:07:58Z",
+    "timestamp_areas_base": "2021-07-11T17:20:01Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -202,6 +202,8 @@
   "tags": {
     "addr:city": "San Zeno di Montagna",
     "addr:country": "IT",
+    "addr:housenumber": "1",
+    "addr:postcode": "37010",
     "addr:street": "Via Perare",
     "emergency": "defibrillator",
     "name": "Campo sportivo"
@@ -254,6 +256,10 @@
   "lon": 10.9198263,
   "tags": {
     "access": "permissive",
+    "addr:city": "Verona",
+    "addr:country": "IT",
+    "addr:postcode": "37137",
+    "addr:street": "Via Sommacampagna",
     "emergency": "defibrillator",
     "indoor": "yes",
     "name": "Mercato Ortofrutticolo"
@@ -308,6 +314,7 @@
     "addr:city": "Verona",
     "addr:country": "IT",
     "addr:housenumber": "28",
+    "addr:postcode": "37136",
     "addr:street": "Via Tanaro",
     "defibrillator:location": "Installato a parete all'interno della piscina coperta, entrare e girare subito a sinistra",
     "emergency": "defibrillator",
@@ -337,7 +344,10 @@
   "lat": 45.3734097,
   "lon": 10.9376058,
   "tags": {
-    "description": "Installato presso spogliatoio arbitri",
+    "addr:city": "La Rizza",
+    "addr:country": "IT",
+    "addr:street": "Via Giuseppe Morandini",
+    "description": "L'apparato è installato presso lo spogliatoio arbitri",
     "emergency": "defibrillator",
     "indoor": "yes",
     "name": "Campo sportivo La Rizza"
@@ -349,7 +359,11 @@
   "lat": 45.2972136,
   "lon": 10.8979460,
   "tags": {
-    "emergency": "defibrillator"
+    "addr:city": "Nogarole Rocca",
+    "addr:country": "IT",
+    "addr:postcode": "37060",
+    "emergency": "defibrillator",
+    "name": "Area di servizio Povegliano Est"
   }
 },
 {
@@ -399,6 +413,9 @@
   "lon": 11.0046697,
   "tags": {
     "access": "yes",
+    "addr:city": "Lughezzano",
+    "addr:country": "IT",
+    "addr:postcode": "37021",
     "emergency": "defibrillator",
     "indoor": "no",
     "name": "Scuola di Lughezzano",
@@ -472,10 +489,14 @@
   "lon": 10.7496822,
   "tags": {
     "access": "yes",
+    "addr:city": "Castelnuovo del Garda",
+    "addr:country": "IT",
+    "addr:postcode": "37014",
+    "addr:street": "Via Oregolo",
     "defibrillator:location": "installato di fianco alla dx della porta di ingresso del ristorante",
     "emergency": "defibrillator",
     "name": "Campi sportivi polivalenti comunali",
-    "opening_hours": "08:00-00:00",
+    "opening_hours": "Mo-Su 08:00-24:00",
     "wheelchair": "yes",
     "wikimedia_commons": "File:Defibrillator at playgrounds in Castelnuovo (Verona, ITALY).jpg"
   }
@@ -584,6 +605,7 @@
   "tags": {
     "emergency": "defibrillator",
     "indoor": "yes",
+    "name": "Circolo NOI",
     "wheelchair": "no"
   }
 },
@@ -593,7 +615,8 @@
   "lat": 45.7692131,
   "lon": 10.8644427,
   "tags": {
-    "emergency": "defibrillator"
+    "emergency": "defibrillator",
+    "name": "Stazione arrivo funivia Monte Baldo"
   }
 },
 {
@@ -602,8 +625,17 @@
   "lat": 45.7259373,
   "lon": 10.7811190,
   "tags": {
+    "access": "yes",
+    "addr:city": "Assenza di Brenzone",
+    "addr:country": "IT",
+    "addr:housenumber": "38",
+    "addr:postcode": "37010",
+    "addr:street": "Via Gardesana",
     "emergency": "defibrillator",
-    "indoor": "no"
+    "indoor": "no",
+    "name": "Supermercato Despar",
+    "opening_hours": "24/7",
+    "wheelchair": "yes"
   }
 },
 {
@@ -612,8 +644,14 @@
   "lat": 45.7661537,
   "lon": 10.8133141,
   "tags": {
+    "addr:city": "Malcesine",
+    "addr:country": "IT",
+    "addr:housenumber": "12",
+    "addr:postcode": "37018",
+    "addr:street": "Via Navene Vecchia",
     "emergency": "defibrillator",
-    "indoor": "yes"
+    "indoor": "yes",
+    "name": "Stazione partenza funivia Monte Baldo"
   }
 },
 {
@@ -622,8 +660,15 @@
   "lat": 45.7082948,
   "lon": 10.7670811,
   "tags": {
+    "access": "yes",
+    "addr:city": "Brenzone",
+    "addr:country": "IT",
+    "addr:housenumber": "15",
+    "addr:postcode": "37010",
+    "addr:street": "Via Venti Settembre",
     "emergency": "defibrillator",
-    "indoor": "no"
+    "indoor": "no",
+    "opening_hours": "24/7"
   }
 },
 {
@@ -651,7 +696,8 @@
   "lon": 10.8303811,
   "tags": {
     "emergency": "defibrillator",
-    "indoor": "yes"
+    "indoor": "yes",
+    "name": "Rifugio Telegrafo"
   }
 },
 {
@@ -677,6 +723,10 @@
   "lat": 45.5205301,
   "lon": 11.1641552,
   "tags": {
+    "addr:city": "Tregnago",
+    "addr:country": "IT",
+    "addr:postcode": "37039",
+    "addr:street": "Via dei Bandi",
     "defibrillator:location": "L'apparato è installato sulla desta dell'ingresso della Chiesa della Disciplina",
     "emergency": "defibrillator",
     "name": "Chiesa della Disciplina",
@@ -809,6 +859,11 @@
   "lat": 45.4375786,
   "lon": 11.0039650,
   "tags": {
+    "addr:city": "Verona",
+    "addr:country": "IT",
+    "addr:housenumber": "14",
+    "addr:postcode": "37129",
+    "addr:street": "Via dell'Artigliere",
     "emergency": "defibrillator",
     "indoor": "yes",
     "name": "Scuola elementare Massalongo"
@@ -838,6 +893,10 @@
   "lon": 11.2681881,
   "tags": {
     "access": "customers",
+    "addr:city": "San Bonifacio",
+    "addr:country": "IT",
+    "addr:postcode": "37047",
+    "addr:street": "Via Roma",
     "emergency": "defibrillator",
     "indoor": "yes",
     "name": "Scuola Elementare Gino Sandri"
@@ -899,6 +958,7 @@
   "tags": {
     "access": "yes",
     "emergency": "defibrillator",
+    "name": "Area di servizio Adige Ovest",
     "opening_hours": "24/7"
   }
 },
@@ -1070,6 +1130,11 @@
   "lat": 45.4356734,
   "lon": 10.9933830,
   "tags": {
+    "addr:city": "Verona",
+    "addr:country": "IT",
+    "addr:housenumber": "1",
+    "addr:postcode": "37122",
+    "addr:street": "Via Carlo Montanari",
     "emergency": "defibrillator",
     "indoor": "yes",
     "name": "Scuole alle Stimmate"
@@ -1099,7 +1164,9 @@
   "lat": 45.3515383,
   "lon": 10.9977114,
   "tags": {
+    "addr:city": "Buttapietra",
     "addr:country": "IT",
+    "addr:postcode": "37135",
     "addr:street": "Via Dolomiti",
     "emergency": "defibrillator"
   }
@@ -1179,6 +1246,7 @@
   "lat": 45.6531551,
   "lon": 11.1226326,
   "tags": {
+    "addr:city": "Giazza",
     "defibrillator:location": "L'apparato è installato a destra dell'ingresso dell'Osteria Ljetzan",
     "emergency": "defibrillator",
     "name": "Osteria Ljetzan",
@@ -1251,6 +1319,9 @@
   "lat": 45.4199758,
   "lon": 10.9687220,
   "tags": {
+    "addr:city": "Verona",
+    "addr:country": "IT",
+    "addr:postcode": "37136",
     "emergency": "defibrillator",
     "indoor": "yes",
     "name": "Oratorio Golosine"
@@ -1262,8 +1333,11 @@
   "lat": 45.4170440,
   "lon": 10.9273112,
   "tags": {
+    "addr:city": "Verona",
+    "addr:country": "IT",
+    "addr:street": "Via Sommacampagna",
     "emergency": "defibrillator",
-    "name": "Dae"
+    "name": "Quadrante Servizi"
   }
 },
 {
