@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.56.9 76e5016d",
   "osm3s": {
-    "timestamp_osm_base": "2021-07-10T10:05:57Z",
-    "timestamp_areas_base": "2021-07-10T09:03:52Z",
+    "timestamp_osm_base": "2021-07-11T10:05:13Z",
+    "timestamp_areas_base": "2021-07-11T09:24:37Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -72,7 +72,6 @@
     "addr:street": "Piazza della Chiesa",
     "defibrillator:location": "L'apparato è installato nel tunnel che collega Piazza della Chiesa a Piazza Guglielmo Marconi",
     "emergency": "defibrillator",
-    "indoor": "no",
     "name": "Municipio Bosco Chiesanuova",
     "opening_hours": "24/7",
     "operator": "Comune Bosco Chiesanuova",
@@ -160,8 +159,18 @@
   "lat": 45.4386301,
   "lon": 10.9453037,
   "tags": {
+    "access": "yes",
+    "addr:city": "Verona",
+    "addr:country": "IT",
+    "addr:housenumber": "13",
+    "addr:postcode": "37139",
+    "addr:street": "Via Beniamino Romagnoli",
     "emergency": "defibrillator",
-    "indoor": "no"
+    "indoor": "no",
+    "name": "Oratorio XVI secolo",
+    "opening_hours": "24/7",
+    "outdoor": "yes",
+    "wheelchair": "yes"
   }
 },
 {
@@ -204,10 +213,19 @@
   "lat": 45.4415985,
   "lon": 10.9805015,
   "tags": {
+    "access": "yes",
+    "addr:city": "Verona",
+    "addr:country": "IT",
+    "addr:housenumber": "1",
+    "addr:postcode": "37123",
+    "addr:street": "Piazza Corrubbio",
     "defibrillator:location": "All'esterno, accanto all'ingresso della farmacia",
     "defibrillator:location:en": "Externally, beside the pharmacy entrance",
     "emergency": "defibrillator",
-    "indoor": "no"
+    "indoor": "no",
+    "name": "Farmacia San Zeno",
+    "opening_hours": "24/7",
+    "wheelchair": "yes"
   }
 },
 {
@@ -220,6 +238,7 @@
     "addr:city": "Caselle di Sommacampagna",
     "addr:country": "IT",
     "addr:housenumber": "49",
+    "addr:postcode": "37066",
     "addr:street": "Via Scuole",
     "defibrillator:location": "L'apparato è installato presso l'ingresso della Boblioteca Comunale.",
     "emergency": "defibrillator",
@@ -243,13 +262,20 @@
 {
   "type": "node",
   "id": 5309066565,
-  "lat": 45.4581577,
-  "lon": 10.9470050,
+  "lat": 45.4581430,
+  "lon": 10.9470489,
   "tags": {
     "access": "yes",
-    "defibrillator:location": "a muro",
+    "addr:city": "Verona",
+    "addr:country": "IT",
+    "addr:housenumber": "94",
+    "addr:postcode": "37139",
+    "addr:street": "Via Aeroporto Angelo Berardi",
+    "defibrillator:location": "L'apparato è installato a sinistra dell'ingresso della farmacia",
     "emergency": "defibrillator",
     "indoor": "no",
+    "name": "Farmacia Comunale Chievo",
+    "opening_hours": "24/7",
     "wheelchair": "yes"
   }
 },
