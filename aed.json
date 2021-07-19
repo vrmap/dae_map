@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.56.9 76e5016d",
   "osm3s": {
-    "timestamp_osm_base": "2021-07-18T10:06:02Z",
-    "timestamp_areas_base": "2021-07-18T09:34:28Z",
+    "timestamp_osm_base": "2021-07-19T10:05:57Z",
+    "timestamp_areas_base": "2021-07-19T08:57:43Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -75,7 +75,8 @@
     "name": "Municipio Bosco Chiesanuova",
     "opening_hours": "24/7",
     "operator": "Comune Bosco Chiesanuova",
-    "outdoor": "yes"
+    "outdoor": "yes",
+    "wikimedia_commons": "File:DAE_Bosco_Chiesanuova.jpg"
   }
 },
 {
@@ -246,7 +247,8 @@
     "emergency": "defibrillator",
     "name": "Biblioteca di Caselle di Sommacampagna",
     "opening_hours": "24/7",
-    "wheelchair": "yes"
+    "wheelchair": "yes",
+    "wikimedia_commons": "File:DAE_Caselle_di_Sommacampagna.jpg"
   }
 },
 {
@@ -479,7 +481,8 @@
     "indoor": "no",
     "name": "Municipio di Bussolengo",
     "opening_hours": "24/7",
-    "outdoor": "yes"
+    "outdoor": "yes",
+    "wikimedia_commons": "File:DAE_Bussolengo.jpg"
   }
 },
 {
@@ -574,7 +577,8 @@
     "indoor": "no",
     "name": "Farmacia Comunale",
     "opening_hours": "24/7",
-    "outdoor": "yes"
+    "outdoor": "yes",
+    "wikimedia_commons": "File:DAE_Farmacia_Dossobuono.jpg"
   }
 },
 {
@@ -594,7 +598,8 @@
     "indoor": "no",
     "name": "Delegazione Comunale",
     "opening_hours": "24/7",
-    "outdoor": "yes"
+    "outdoor": "yes",
+    "wikimedia_commons": "File:DAE_Delegazione_Comunale_Dossobuono.jpg"
   }
 },
 {
