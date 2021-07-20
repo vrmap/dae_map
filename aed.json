@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.56.9 76e5016d",
   "osm3s": {
-    "timestamp_osm_base": "2021-07-19T10:05:57Z",
-    "timestamp_areas_base": "2021-07-19T08:57:43Z",
+    "timestamp_osm_base": "2021-07-20T10:06:28Z",
+    "timestamp_areas_base": "2021-07-20T08:31:42Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -768,7 +768,8 @@
     "defibrillator:location": "L'apparato è installato all' interno guardiola AIA ingresso stabilimento",
     "emergency": "defibrillator",
     "indoor": "yes",
-    "name": "Guardiola ingresso AIA"
+    "name": "Guardiola ingresso AIA",
+    "wikimedia_commons": "File:DAE_presso_AIA_Verona.jpg"
   }
 },
 {
@@ -784,7 +785,8 @@
     "addr:street": "Viale del Commercio",
     "emergency": "defibrillator",
     "indoor": "yes",
-    "name": "Corti Venete"
+    "name": "Corti Venete",
+    "wikimedia_commons": "File:DAE_presso_Corti_Venete.jpg"
   }
 },
 {
@@ -1484,7 +1486,8 @@
     "defibrillator:location": "L'apparato è installato a sinistra dell'ingresso della Farmacia.",
     "emergency": "defibrillator",
     "name": "Farmacia Martari",
-    "opening_hours": "24/7"
+    "opening_hours": "24/7",
+    "wikimedia_commons": "File:DAE_Farmacia_Martari_Verona.jpg"
   }
 },
 {
