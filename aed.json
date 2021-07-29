@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.56.9 76e5016d",
   "osm3s": {
-    "timestamp_osm_base": "2021-07-28T10:06:13Z",
-    "timestamp_areas_base": "2021-07-28T09:48:02Z",
+    "timestamp_osm_base": "2021-07-29T10:06:13Z",
+    "timestamp_areas_base": "2021-07-29T09:20:28Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -1589,6 +1589,37 @@
     "outdoor": "yes",
     "wheelchair": "yes",
     "wikimedia_commons": "File:DAE_Pizzeria_da_Fabio_Cerro_Veronese.jpg"
+  }
+},
+{
+  "type": "node",
+  "id": 8956966704,
+  "lat": 45.4348015,
+  "lon": 10.9935983,
+  "tags": {
+    "emergency": "defibrillator",
+    "name": "Liceo Statale Carlo Montanari"
+  }
+},
+{
+  "type": "node",
+  "id": 8956966713,
+  "lat": 45.4340611,
+  "lon": 10.9963142,
+  "tags": {
+    "access": "yes",
+    "addr:city": "Verona",
+    "addr:country": "IT",
+    "addr:housenumber": "32",
+    "addr:postcode": "37122",
+    "addr:street": "Via del Pontiere",
+    "defibrillator:location": "L'apparato è installato a sinistra dell'ingresso carraio della polizia Municipale",
+    "emergency": "defibrillator",
+    "name": "Polizia Municipale",
+    "opening_hours": "24/7",
+    "outdoor": "yes",
+    "wheelchair": "yes",
+    "wikimedia_commons": "File:DAE_presso_sede_Polizia_Municipale_Verona.jpg"
   }
 }
 
