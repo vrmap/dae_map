@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.56.9 76e5016d",
   "osm3s": {
-    "timestamp_osm_base": "2021-07-30T10:15:56Z",
-    "timestamp_areas_base": "2021-07-30T10:00:41Z",
+    "timestamp_osm_base": "2021-07-31T10:05:48Z",
+    "timestamp_areas_base": "2021-07-31T09:16:58Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -461,9 +461,11 @@
     "addr:street": "Via Giovanna Murari Brà",
     "defibrillator:location": "L'apparato è installato sul pilastro a destra dell'ingresso della Farmacia",
     "emergency": "defibrillator",
+    "indoor": "no",
     "name": "La Mia Farmacia",
     "opening_hours": "24/7",
-    "outdoor": "yes"
+    "outdoor": "yes",
+    "wikimedia_commons": "File:DAE_presso_La_Mia_Farmacia.jpg"
   }
 },
 {
