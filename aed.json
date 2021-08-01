@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.56.9 76e5016d",
   "osm3s": {
-    "timestamp_osm_base": "2021-07-31T10:05:48Z",
-    "timestamp_areas_base": "2021-07-31T09:16:58Z",
+    "timestamp_osm_base": "2021-08-01T10:05:42Z",
+    "timestamp_areas_base": "2021-08-01T09:28:03Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -1622,6 +1622,63 @@
     "outdoor": "yes",
     "wheelchair": "yes",
     "wikimedia_commons": "File:DAE_presso_sede_Polizia_Municipale_Verona.jpg"
+  }
+},
+{
+  "type": "node",
+  "id": 8971440469,
+  "lat": 45.2826222,
+  "lon": 10.8718380,
+  "tags": {
+    "access": "yes",
+    "addr:city": "Pradelle",
+    "addr:country": "IT",
+    "addr:housenumber": "38",
+    "addr:postcode": "37060",
+    "addr:street": "Via 9 Maggio",
+    "defibrillator:location": "L'apparato è unstallato sul palo dell'insegna della farmacia",
+    "emergency": "defibrillator",
+    "opening_hours": "24/7",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8971440474,
+  "lat": 45.4194101,
+  "lon": 11.1326010,
+  "tags": {
+    "access": "yes",
+    "addr:city": "Lavagno",
+    "addr:country": "IT",
+    "addr:housenumber": "5",
+    "addr:postcode": "37030",
+    "addr:street": "Via Niccolò Copernico",
+    "defibrillator:location": "L'apparato è unstallato sull'angolo a destra dell'ingresso della farmacia",
+    "emergency": "defibrillator",
+    "name": "Farmacia Montanari",
+    "opening_hours": "24/7",
+    "outdoor": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8971440475,
+  "lat": 45.4258055,
+  "lon": 11.1372782,
+  "tags": {
+    "access": "yes",
+    "addr:city": "Lavagno",
+    "addr:country": "IT",
+    "addr:housenumber": "44",
+    "addr:postcode": "37030",
+    "addr:street": "Via Fontana",
+    "emergency": "defibrillator",
+    "name": "Farmacia Vanzan",
+    "opening_hours": "24/7",
+    "outdoor": "yes",
+    "wheelchair": "yes"
   }
 }
 
