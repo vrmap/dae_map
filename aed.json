@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.56.9 76e5016d",
   "osm3s": {
-    "timestamp_osm_base": "2021-08-04T10:07:02Z",
-    "timestamp_areas_base": "2021-08-04T09:00:58Z",
+    "timestamp_osm_base": "2021-08-05T10:05:43Z",
+    "timestamp_areas_base": "2021-08-05T09:40:03Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -1566,7 +1566,8 @@
     "emergency": "defibrillator",
     "name": "Percorso della Salute",
     "opening_hours": "24/7",
-    "wheelchair": "yes"
+    "wheelchair": "yes",
+    "wikimedia_commons": "File:AED_percorso_della_salute.jpg"
   }
 },
 {
@@ -1796,7 +1797,8 @@
     "emergency": "defibrillator",
     "name": "Farmacia Bacchini",
     "opening_hours": "24/7",
-    "wheelchair": "yes"
+    "wheelchair": "yes",
+    "wikimedia_commons": "File:AED_farmacia_Bacchini.jpg"
   }
 },
 {
@@ -1833,6 +1835,25 @@
     "defibrillator:location": "Il defibrillatore è installato a destra dell'ingresso della farmacia",
     "emergency": "defibrillator",
     "name": "Farmacia Soave",
+    "opening_hours": "24/7",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8982551444,
+  "lat": 45.4489806,
+  "lon": 11.0228218,
+  "tags": {
+    "access": "yes",
+    "addr:city": "Verona",
+    "addr:country": "IT",
+    "addr:housenumber": "28",
+    "addr:postcode": "37131",
+    "addr:street": "Via Villa Cozza",
+    "defibrillator:location": "A destra dell'ingresso della farmacia",
+    "emergency": "defibrillator",
+    "name": "Farmacia Marchiori",
     "opening_hours": "24/7",
     "wheelchair": "yes"
   }
