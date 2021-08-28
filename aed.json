@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.56.9 76e5016d",
   "osm3s": {
-    "timestamp_osm_base": "2021-08-27T10:06:13Z",
-    "timestamp_areas_base": "2021-08-27T07:33:13Z",
+    "timestamp_osm_base": "2021-08-28T10:06:20Z",
+    "timestamp_areas_base": "2021-08-28T09:59:13Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -1585,6 +1585,7 @@
     "addr:street": "Via Giuseppe Mazzini",
     "defibrillator:location": "L'apparato è installato a destra dell'ingresso della farmacia",
     "emergency": "defibrillator",
+    "indoor": "no",
     "name": "Farmacia Due Campane",
     "opening_hours": "24/7",
     "wheelchair": "yes",
