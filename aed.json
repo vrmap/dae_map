@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.56.9 76e5016d",
   "osm3s": {
-    "timestamp_osm_base": "2021-09-01T10:06:59Z",
-    "timestamp_areas_base": "2021-09-01T09:03:28Z",
+    "timestamp_osm_base": "2021-09-02T10:06:59Z",
+    "timestamp_areas_base": "2021-09-02T09:36:28Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -570,7 +570,8 @@
     "indoor": "no",
     "name": "Ristorante Al Caminetto",
     "opening_hours": "24/7",
-    "operator": "Comune di Bosco Chiesanuova"
+    "operator": "Comune di Bosco Chiesanuova",
+    "wikimedia_commons": "File:DAE_San_Giorgio.jpg"
   }
 },
 {
@@ -1879,6 +1880,59 @@
     "defibrillator:location": "Il defibrillatore è installato sull'andolo della Farmacia",
     "emergency": "defibrillator",
     "name": "Farmacia Comunale Madonna di Campagna",
+    "opening_hours": "24/7",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9053733438,
+  "lat": 45.5743658,
+  "lon": 11.0411082,
+  "tags": {
+    "access": "yes",
+    "addr:city": "Cerro Veronese",
+    "addr:country": "IT",
+    "addr:housenumber": "4",
+    "addr:postcode": "37020",
+    "defibrillator:location": "Installato a destra dell'ingresso della banca.",
+    "emergency": "defibrillator",
+    "name": "Cassa Rurale Vallgarina",
+    "opening_hours": "24/7"
+  }
+},
+{
+  "type": "node",
+  "id": 9055318657,
+  "lat": 45.5935534,
+  "lon": 11.0657772,
+  "tags": {
+    "access": "yes",
+    "addr:city": "Roverè Veronese",
+    "addr:country": "IT",
+    "addr:housenumber": "18",
+    "addr:postcode": "37028",
+    "addr:street": "Piazza Vittorio Emanuele",
+    "defibrillator:location": "Installato a destra dell'ingresso della banca",
+    "emergency": "defibrillator",
+    "name": "Cassa Rurale Vallagarina",
+    "opening_hours": "24/7",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9055318686,
+  "lat": 45.6052329,
+  "lon": 11.0959853,
+  "tags": {
+    "access": "yes",
+    "addr:city": "Velo Veronese",
+    "addr:country": "IT",
+    "addr:street": "Piazzetta Attilio Benetti",
+    "defibrillator:location": "Installato in Piazzetta Attilio Benetti",
+    "emergency": "defibrillator",
+    "name": "Piazzetta Attilio Benetti",
     "opening_hours": "24/7",
     "wheelchair": "yes"
   }
