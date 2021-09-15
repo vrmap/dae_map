@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.56.9 76e5016d",
   "osm3s": {
-    "timestamp_osm_base": "2021-09-14T10:06:10Z",
-    "timestamp_areas_base": "2021-09-14T09:41:41Z",
+    "timestamp_osm_base": "2021-09-15T10:06:00Z",
+    "timestamp_areas_base": "2021-09-15T09:02:45Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -415,7 +415,8 @@
     "name": "Chiesa di Valdiporro",
     "opening_hours": "24/7",
     "operator": "Comune Bosco Chiesanuova",
-    "outdoor": "yes"
+    "outdoor": "yes",
+    "wikimedia_commons": "File:DAE_presso_Valdiporro.jpg"
   }
 },
 {
@@ -432,7 +433,9 @@
     "indoor": "no",
     "name": "Scuola di Lughezzano",
     "opening_hours": "24/7",
-    "operator": "Comune di Bosco Chiesanuova"
+    "operator": "Comune di Bosco Chiesanuova",
+    "support": "wall_mounted",
+    "wikimedia_commons": "File:DAE_presso_Lughezzano.jpg"
   }
 },
 {
@@ -1898,7 +1901,8 @@
     "defibrillator:location": "Installato a destra dell'ingresso della banca.",
     "emergency": "defibrillator",
     "name": "Cassa Rurale Vallgarina",
-    "opening_hours": "24/7"
+    "opening_hours": "24/7",
+    "wikimedia_commons": "File:DAE_presso_Cerro_Veronese.jpg"
   }
 },
 {
@@ -1917,7 +1921,8 @@
     "emergency": "defibrillator",
     "name": "Cassa Rurale Vallagarina",
     "opening_hours": "24/7",
-    "wheelchair": "yes"
+    "wheelchair": "yes",
+    "wikimedia_commons": "File:DAE_presso_Rovere_Veronese.jpg"
   }
 },
 {
@@ -1934,7 +1939,8 @@
     "emergency": "defibrillator",
     "name": "Piazzetta Attilio Benetti",
     "opening_hours": "24/7",
-    "wheelchair": "yes"
+    "wheelchair": "yes",
+    "wikimedia_commons": "File:DAE_presso_Velo_Veronese.jpg"
   }
 }
 
