@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.57 93a4d346",
   "osm3s": {
-    "timestamp_osm_base": "2021-11-04T10:07:21Z",
-    "timestamp_areas_base": "2021-11-04T09:55:13Z",
+    "timestamp_osm_base": "2021-11-05T10:07:13Z",
+    "timestamp_areas_base": "2021-11-05T08:07:59Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -1582,8 +1582,8 @@
 {
   "type": "node",
   "id": 8951268034,
-  "lat": 45.4407141,
-  "lon": 10.9947476,
+  "lat": 45.4406497,
+  "lon": 10.9948070,
   "tags": {
     "access": "yes",
     "addr:city": "Verona",
