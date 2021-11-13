@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.57 93a4d346",
   "osm3s": {
-    "timestamp_osm_base": "2021-11-12T10:06:58Z",
-    "timestamp_areas_base": "2021-11-12T09:42:44Z",
+    "timestamp_osm_base": "2021-11-13T10:06:14Z",
+    "timestamp_areas_base": "2021-11-13T06:56:00Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -309,6 +309,7 @@
     "defibrillator:location": "L'apparato è installato nella zona taxi della stazione treni di Porta Nuova",
     "defibrillator:location:en": "taxi stop position",
     "emergency": "defibrillator",
+    "indoor": "no",
     "name": "Stazione Porta Nuova",
     "opening_hours": "24/7",
     "outdoor": "yes",
@@ -1784,7 +1785,9 @@
     "addr:postcode": "37138",
     "addr:street": "Corso Milano",
     "defibrillator:location": "Il defibrillatore è installato a destra dell'ingresso della farmacia",
+    "defibrillator:location:en": "Externally, to the right of the pharmacy entrance",
     "emergency": "defibrillator",
+    "indoor": "no",
     "name": "Farmacia Borgo Milano",
     "opening_hours": "24/7",
     "outdoor": "yes",
