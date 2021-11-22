@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.57 93a4d346",
   "osm3s": {
-    "timestamp_osm_base": "2021-11-21T10:06:54Z",
-    "timestamp_areas_base": "2021-11-21T09:46:40Z",
+    "timestamp_osm_base": "2021-11-22T10:07:22Z",
+    "timestamp_areas_base": "2021-11-22T05:57:14Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -1992,6 +1992,20 @@
     "support": "wall_mounted",
     "wheelchair": "no",
     "wikimedia_commons": "File:DAE_ZAI_San_Martino_Buonalbergo.jpg"
+  }
+},
+{
+  "type": "node",
+  "id": 9274409419,
+  "lat": 45.5243887,
+  "lon": 11.0420168,
+  "tags": {
+    "access": "yes",
+    "defibrillator:location": "Installato a sinistra dell'ingresso della Scuola dell'Infanzia",
+    "emergency": "defibrillator",
+    "name": "Scuola dell'Infanzia Paritaria di Romagnano",
+    "opening_hours": "24/7",
+    "support": "wall_mounted"
   }
 }
 
