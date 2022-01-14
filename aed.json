@@ -1,9 +1,9 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.57 93a4d346",
+  "generator": "Overpass API 0.7.57.1 74a55df1",
   "osm3s": {
-    "timestamp_osm_base": "2022-01-13T10:07:41Z",
-    "timestamp_areas_base": "2022-01-13T09:17:41Z",
+    "timestamp_osm_base": "2022-01-14T10:07:25Z",
+    "timestamp_areas_base": "2022-01-14T09:19:54Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -2053,6 +2053,24 @@
     "outdoor": "yes",
     "support": "wall_mounted",
     "wikimedia_commons": "File:DAE_Canonica_di_Villafranca.jpg"
+  }
+},
+{
+  "type": "node",
+  "id": 9415987421,
+  "lat": 45.6284389,
+  "lon": 10.9866554,
+  "tags": {
+    "access": "yes",
+    "addr:city": "Cappella Fasani",
+    "addr:country": "IT",
+    "addr:housenumber": "15",
+    "addr:postcode": "37020",
+    "addr:street": "Via Fasani di Sopra",
+    "defibrillator:location": "Installato presso l'ingresso della trattoria",
+    "emergency": "defibrillator",
+    "name": "ex Bar Trattoria Campedelli",
+    "opening_hours": "24/7"
   }
 }
 
