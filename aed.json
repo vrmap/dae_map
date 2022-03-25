@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.57 93a4d346",
   "osm3s": {
-    "timestamp_osm_base": "2022-03-24T10:08:27Z",
-    "timestamp_areas_base": "2022-03-24T08:22:04Z",
+    "timestamp_osm_base": "2022-03-25T10:09:39Z",
+    "timestamp_areas_base": "2022-03-25T08:36:28Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -1436,8 +1436,8 @@
 {
   "type": "node",
   "id": 8312009942,
-  "lat": 45.5185548,
-  "lon": 11.0162559,
+  "lat": 45.5185858,
+  "lon": 11.0162552,
   "tags": {
     "addr:city": "Grezzana",
     "addr:country": "IT",
