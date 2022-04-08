@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.57 93a4d346",
   "osm3s": {
-    "timestamp_osm_base": "2022-04-07T10:08:09Z",
-    "timestamp_areas_base": "2022-04-07T07:28:06Z",
+    "timestamp_osm_base": "2022-04-08T10:09:24Z",
+    "timestamp_areas_base": "2022-04-08T09:43:04Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -515,6 +515,7 @@
     "addr:street": "Via Oregolo",
     "defibrillator:location": "installato di fianco alla dx della porta di ingresso del ristorante",
     "emergency": "defibrillator",
+    "indoor": "no",
     "name": "Campi sportivi polivalenti comunali",
     "opening_hours": "Mo-Su 08:00-24:00",
     "wheelchair": "yes",
