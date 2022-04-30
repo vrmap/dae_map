@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.57 93a4d346",
   "osm3s": {
-    "timestamp_osm_base": "2022-04-29T10:07:39Z",
-    "timestamp_areas_base": "2022-04-29T09:22:00Z",
+    "timestamp_osm_base": "2022-04-30T10:09:58Z",
+    "timestamp_areas_base": "2022-04-30T09:34:32Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -116,6 +116,7 @@
     "addr:street": "Piazza Brà",
     "defibrillator:location": "L'apparato è installato a destra dell'ingresso della Farmacia dietro la colonna d'angolo del porticato",
     "emergency": "defibrillator",
+    "indoor": "no",
     "name": "Farmacia Internazionale",
     "opening_hours": "24/7",
     "outdoor": "yes",
