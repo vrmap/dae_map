@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.57 93a4d346",
   "osm3s": {
-    "timestamp_osm_base": "2022-05-08T10:08:24Z",
-    "timestamp_areas_base": "2022-05-08T07:11:56Z",
+    "timestamp_osm_base": "2022-05-09T10:09:34Z",
+    "timestamp_areas_base": "2022-05-09T09:26:00Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -73,6 +73,7 @@
     "addr:street": "Piazza della Chiesa",
     "defibrillator:location": "L'apparato è installato nel tunnel che collega Piazza della Chiesa a Piazza Guglielmo Marconi",
     "emergency": "defibrillator",
+    "indoor": "no",
     "name": "Municipio Bosco Chiesanuova",
     "opening_hours": "24/7",
     "operator": "Comune Bosco Chiesanuova",
