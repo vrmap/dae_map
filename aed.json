@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.57 93a4d346",
   "osm3s": {
-    "timestamp_osm_base": "2022-05-15T10:09:54Z",
-    "timestamp_areas_base": "2022-05-15T09:44:31Z",
+    "timestamp_osm_base": "2022-05-16T10:10:42Z",
+    "timestamp_areas_base": "2022-05-16T07:56:12Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -2140,6 +2140,15 @@
   "tags": {
     "emergency": "defibrillator",
     "fixme": "Position SW side of path. Anyway close and right of post box."
+  }
+},
+{
+  "type": "node",
+  "id": 9742104937,
+  "lat": 45.6077753,
+  "lon": 10.7983367,
+  "tags": {
+    "emergency": "defibrillator"
   }
 }
 
