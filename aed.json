@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.58.5 b0c4acbb",
   "osm3s": {
-    "timestamp_osm_base": "2022-08-19T10:15:41Z",
-    "timestamp_areas_base": "2022-07-20T10:48:09Z",
+    "timestamp_osm_base": "2022-08-22T10:14:44Z",
+    "timestamp_areas_base": "2022-07-20T11:06:24Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -95,6 +95,7 @@
     "addr:street": "Piazza IV Novembre",
     "defibrillator:location": "L'apparato è installato nel vialetto di accesso di La quercia di Adamo dopo un cancello che talvolta è chiuso.",
     "emergency": "defibrillator",
+    "indoor": "yes",
     "name": "La quercia di Abramo",
     "name:en": "AED",
     "opening_hours": "24/7",
