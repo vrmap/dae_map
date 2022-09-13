@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.58.5 b0c4acbb",
   "osm3s": {
-    "timestamp_osm_base": "2022-09-10T10:13:24Z",
-    "timestamp_areas_base": "2022-07-20T11:06:24Z",
+    "timestamp_osm_base": "2022-09-13T10:15:44Z",
+    "timestamp_areas_base": "2022-07-20T10:48:09Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -2203,6 +2203,24 @@
     "emergency": "defibrillator",
     "indoor": "no",
     "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10013376299,
+  "lat": 45.3957826,
+  "lon": 11.0174691,
+  "tags": {
+    "access": "customers",
+    "addr:city": "San Giovanni Lupatoto",
+    "addr:country": "IT",
+    "addr:postcode": "37057",
+    "addr:street": "Via Monte Amiata",
+    "defibrillator:location": "L'apparato è installato nell'area casse",
+    "emergency": "defibrillator",
+    "indoor": "yes",
+    "name": "Leroy Merlin",
+    "opening_hours": "Mo-Sa 09:00-20:30"
   }
 }
 
