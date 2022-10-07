@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.58.5 b0c4acbb",
   "osm3s": {
-    "timestamp_osm_base": "2022-10-04T10:15:19Z",
-    "timestamp_areas_base": "2022-07-20T11:06:24Z",
+    "timestamp_osm_base": "2022-10-07T10:18:23Z",
+    "timestamp_areas_base": "2022-10-07T10:06:07Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -2222,6 +2222,38 @@
     "indoor": "yes",
     "name": "Leroy Merlin",
     "opening_hours": "Mo-Sa 09:00-20:30"
+  }
+},
+{
+  "type": "node",
+  "id": 10079260319,
+  "lat": 45.4348834,
+  "lon": 10.9881158,
+  "tags": {
+    "addr:city": "Verona",
+    "addr:country": "IT",
+    "addr:housenumber": "19",
+    "addr:postcode": "37122",
+    "addr:street": "Via della Valverde",
+    "emergency": "defibrillator",
+    "indoor": "yes",
+    "name": "Istituto Lavinia Mondin"
+  }
+},
+{
+  "type": "node",
+  "id": 10079260320,
+  "lat": 45.4358734,
+  "lon": 10.9873004,
+  "tags": {
+    "addr:city": "Verona",
+    "addr:country": "IT",
+    "addr:housenumber": "4",
+    "addr:postcode": "37122",
+    "addr:street": "Via Don Carlo Steeb",
+    "emergency": "defibrillator",
+    "indoor": "yes",
+    "name": "Istituto Assistenza Anziani Don Steeb"
   }
 }
 
