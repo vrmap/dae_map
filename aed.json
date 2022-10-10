@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.58.5 b0c4acbb",
   "osm3s": {
-    "timestamp_osm_base": "2022-10-07T10:18:23Z",
-    "timestamp_areas_base": "2022-10-07T10:06:07Z",
+    "timestamp_osm_base": "2022-10-10T10:14:59Z",
+    "timestamp_areas_base": "2022-10-10T08:39:21Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -395,7 +395,7 @@
     "addr:street": "Via Don A. Squaranti",
     "defibrillator:location": "L'apparato è intallato a destra della porta d'ingresso",
     "emergency": "defibrillator",
-    "mapillary": "i_j3SfEBnHpkK05hXlzV-Q",
+    "mapillary": "1903004026523899",
     "name": "Chiesa di Corbiolo",
     "opening_hours": "24/7",
     "operator": "Comune di Bosco Chiesanuova",
