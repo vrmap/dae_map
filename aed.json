@@ -1,9 +1,9 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.58.5 b0c4acbb",
+  "generator": "Overpass API 0.7.59 e21c39fe",
   "osm3s": {
-    "timestamp_osm_base": "2022-10-10T10:14:59Z",
-    "timestamp_areas_base": "2022-10-10T08:39:21Z",
+    "timestamp_osm_base": "2022-10-13T10:17:02Z",
+    "timestamp_areas_base": "2022-10-13T08:15:54Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -1051,7 +1051,7 @@
     "addr:street": "Corso Giuseppe Garibaldi",
     "defibrillator:location": "L'apparato è installato a sinistra dell'ingresso del Municipio",
     "emergency": "defibrillator",
-    "mapillary": "uvJ9tque7Pqb6L7FnjvOMA",
+    "mapillary": "1072592826605289",
     "name": "Municipio Villafranca di Verona",
     "opening_hours": "24/7",
     "outdoor": "yes"
@@ -1123,7 +1123,7 @@
     "defibrillator:location": "L'apparato è installato a destra dell'ingresso del Municipio.",
     "emergency": "defibrillator",
     "indoor": "yes",
-    "mapillary": "RT0Nt2hae6Y9bVVysw8luA",
+    "mapillary": "142759744541785",
     "name": "Municipio di Garda",
     "opening_hours": "24/7",
     "wheelchair": "yes"
@@ -2254,6 +2254,23 @@
     "emergency": "defibrillator",
     "indoor": "yes",
     "name": "Istituto Assistenza Anziani Don Steeb"
+  }
+},
+{
+  "type": "node",
+  "id": 10096909916,
+  "lat": 45.3499261,
+  "lon": 10.8489279,
+  "tags": {
+    "addr:city": "Villafranca di Verona",
+    "addr:country": "IT",
+    "addr:postcode": "37069",
+    "addr:street": "Piazzale Milite Ignoto",
+    "defibrillator:location": "L'apparato è installato all'interno dell'Emporio della Solidarietà",
+    "emergency": "defibrillator",
+    "indoor": "yes",
+    "name": "Emporio Caritas Il Tione",
+    "opening_hours": "Tu 15:00-18:30; Th,Fr 09:00-12:00"
   }
 }
 
