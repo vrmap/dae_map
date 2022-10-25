@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.59 e21c39fe",
   "osm3s": {
-    "timestamp_osm_base": "2022-10-22T10:14:54Z",
-    "timestamp_areas_base": "2022-10-22T09:10:52Z",
+    "timestamp_osm_base": "2022-10-25T10:18:38Z",
+    "timestamp_areas_base": "2022-10-25T05:45:07Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -2271,6 +2271,24 @@
     "indoor": "yes",
     "name": "Emporio Caritas Il Tione",
     "opening_hours": "Tu 15:00-18:30; Th,Fr 09:00-12:00"
+  }
+},
+{
+  "type": "node",
+  "id": 10123960603,
+  "lat": 45.4172956,
+  "lon": 11.1619967,
+  "tags": {
+    "access": "yes",
+    "addr:city": "Colognola Ai Colli",
+    "addr:country": "IT",
+    "addr:postcode": "37030",
+    "addr:street": "Via Strà",
+    "defibrillator:location": "L'apparato è installato presso la pista ciclabile",
+    "emergency": "defibrillator",
+    "name": "Pista ciclabile",
+    "opening_hours": "24/7",
+    "wheelchair": "yes"
   }
 }
 
