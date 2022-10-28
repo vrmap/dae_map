@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.59 e21c39fe",
   "osm3s": {
-    "timestamp_osm_base": "2022-10-25T10:18:38Z",
-    "timestamp_areas_base": "2022-10-25T05:45:07Z",
+    "timestamp_osm_base": "2022-10-28T10:13:39Z",
+    "timestamp_areas_base": "2022-10-28T06:06:53Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -2289,6 +2289,17 @@
     "name": "Pista ciclabile",
     "opening_hours": "24/7",
     "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10129845002,
+  "lat": 45.4331584,
+  "lon": 11.0174183,
+  "tags": {
+    "emergency": "defibrillator",
+    "indoor": "yes",
+    "name": "Scuola elementare Giuseppe Maggi"
   }
 }
 
