@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.59 e21c39fe",
   "osm3s": {
-    "timestamp_osm_base": "2022-11-28T10:12:10Z",
-    "timestamp_areas_base": "2022-11-28T07:30:39Z",
+    "timestamp_osm_base": "2022-12-01T10:13:01Z",
+    "timestamp_areas_base": "2022-12-01T09:14:09Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -2300,6 +2300,26 @@
     "emergency": "defibrillator",
     "indoor": "yes",
     "name": "Scuola elementare Giuseppe Maggi"
+  }
+},
+{
+  "type": "node",
+  "id": 10230284201,
+  "lat": 45.3096473,
+  "lon": 10.8178741,
+  "tags": {
+    "access": "yes",
+    "addr:city": "Mozzecane",
+    "addr:country": "IT",
+    "addr:housenumber": "26",
+    "addr:postcode": "37069",
+    "addr:street": "Via Caterina Bon Brenzoni",
+    "defibrillator:location": "L'apparato è installato a sinistra dell'ingresso del Municipio",
+    "emergency": "defibrillator",
+    "name": "Municipio di Mozzecane",
+    "opening_hours": "24/7",
+    "outdoor": "yes",
+    "support": "wall_mounted"
   }
 }
 
