@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.59 e21c39fe",
   "osm3s": {
-    "timestamp_osm_base": "2022-12-01T10:13:01Z",
-    "timestamp_areas_base": "2022-12-01T09:14:09Z",
+    "timestamp_osm_base": "2022-12-04T10:10:55Z",
+    "timestamp_areas_base": "2022-12-04T09:17:01Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -756,6 +756,7 @@
     "addr:street": "Via dei Bandi",
     "defibrillator:location": "L'apparato è installato sulla desta dell'ingresso della Chiesa della Disciplina",
     "emergency": "defibrillator",
+    "indoor": "no",
     "name": "Chiesa della Disciplina",
     "opening_hours": "24/7",
     "wheelchair": "yes"
