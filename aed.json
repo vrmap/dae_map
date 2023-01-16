@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.59 e21c39fe",
   "osm3s": {
-    "timestamp_osm_base": "2023-01-13T10:12:49Z",
-    "timestamp_areas_base": "2023-01-13T09:35:44Z",
+    "timestamp_osm_base": "2023-01-16T10:11:02Z",
+    "timestamp_areas_base": "2023-01-16T08:26:36Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -531,7 +531,7 @@
   "lat": 45.4572529,
   "lon": 10.7091042,
   "tags": {
-    "access": "yes",
+    "access": "customers",
     "emergency": "defibrillator",
     "name": "Gardaland Aladino",
     "wheelchair": "yes"
@@ -543,7 +543,7 @@
   "lat": 45.4560947,
   "lon": 10.7091258,
   "tags": {
-    "access": "yes",
+    "access": "customers",
     "emergency": "defibrillator",
     "name": "Gardaland corsari",
     "wheelchair": "yes"
@@ -555,7 +555,7 @@
   "lat": 45.4530216,
   "lon": 10.7152715,
   "tags": {
-    "access": "yes",
+    "access": "customers",
     "emergency": "defibrillator",
     "name": "Gardaland bancomat",
     "wheelchair": "yes"
@@ -2317,10 +2317,56 @@
     "addr:street": "Via Caterina Bon Brenzoni",
     "defibrillator:location": "L'apparato è installato a sinistra dell'ingresso del Municipio",
     "emergency": "defibrillator",
+    "indoor": "no",
     "name": "Municipio di Mozzecane",
     "opening_hours": "24/7",
     "outdoor": "yes",
     "support": "wall_mounted"
+  }
+},
+{
+  "type": "node",
+  "id": 10549549607,
+  "lat": 45.4337448,
+  "lon": 10.8325312,
+  "tags": {
+    "access": "yes",
+    "emergency": "defibrillator",
+    "indoor": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 10557214093,
+  "lat": 45.3085299,
+  "lon": 10.8171784,
+  "tags": {
+    "defibrillator:location": "il DAE è posto sulla parete dell'edificio parrocchiale a destra della Facciata della chiesa",
+    "emergency": "defibrillator"
+  }
+},
+{
+  "type": "node",
+  "id": 10557214094,
+  "lat": 45.3558477,
+  "lon": 10.7435925,
+  "tags": {
+    "access": "permit",
+    "defibrillator:location": "Il Dae è posto nell0ingresso della scuola Secondaria \"J.Foroni\" ed accessibile negli orari di apertura della scuola",
+    "emergency": "defibrillator",
+    "indoor": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10557214095,
+  "lat": 45.3556547,
+  "lon": 10.7439736,
+  "tags": {
+    "access": "permit",
+    "defibrillator:location": "Il Dae è posto sulla parete Nord dell vano scale della palestra della Scuola \"J.Foroni\". E' accessibile durante gli orari di apertura della scuola e della palestra",
+    "emergency": "defibrillator",
+    "indoor": "yes"
   }
 }
 
