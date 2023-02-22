@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.59 e21c39fe",
   "osm3s": {
-    "timestamp_osm_base": "2023-02-19T10:09:55Z",
-    "timestamp_areas_base": "2023-02-19T09:41:35Z",
+    "timestamp_osm_base": "2023-02-22T10:11:43Z",
+    "timestamp_areas_base": "2023-02-22T09:26:10Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -2287,6 +2287,7 @@
     "addr:street": "Via Strà",
     "defibrillator:location": "L'apparato è installato presso la pista ciclabile",
     "emergency": "defibrillator",
+    "indoor": "no",
     "name": "Pista ciclabile",
     "opening_hours": "24/7",
     "wheelchair": "yes"
