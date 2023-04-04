@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.59.4 36d058c8",
   "osm3s": {
-    "timestamp_osm_base": "2023-04-01T10:09:39Z",
-    "timestamp_areas_base": "2023-04-01T08:15:09Z",
+    "timestamp_osm_base": "2023-04-04T10:10:08Z",
+    "timestamp_areas_base": "2023-04-04T07:21:54Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -111,11 +111,6 @@
   "lon": 10.9914400,
   "tags": {
     "access": "yes",
-    "addr:city": "Verona",
-    "addr:country": "IT",
-    "addr:housenumber": "28",
-    "addr:postcode": "37121",
-    "addr:street": "Piazza Brà",
     "defibrillator:location": "L'apparato è installato a destra dell'ingresso della Farmacia dietro la colonna d'angolo del porticato",
     "emergency": "defibrillator",
     "indoor": "no",
@@ -2395,6 +2390,25 @@
     "defibrillator:location": "Installato a sinistra dell'ingresso del Centro Sociale",
     "emergency": "defibrillator",
     "name": "Centro sociale Gioacchino Benini",
+    "opening_hours": "24/7",
+    "support": "wall_mounted"
+  }
+},
+{
+  "type": "node",
+  "id": 10781947271,
+  "lat": 45.4187255,
+  "lon": 10.9642867,
+  "tags": {
+    "access": "yes",
+    "addr:city": "Verona",
+    "addr:country": "IT",
+    "addr:housenumber": "8/A",
+    "addr:postcode": "37136",
+    "addr:street": "Via Po",
+    "defibrillator:location": "L'apparato è installato all'angolo a sinistra dell'ingresso della Farmacia.",
+    "emergency": "defibrillator",
+    "name": "Farmacia Comunale Golosine",
     "opening_hours": "24/7",
     "support": "wall_mounted"
   }
