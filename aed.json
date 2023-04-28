@@ -1,9 +1,9 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.60.2 e4cf9f7a",
+  "generator": "Overpass API 0.7.60 f4c14d41",
   "osm3s": {
-    "timestamp_osm_base": "2023-04-25T10:10:24Z",
-    "timestamp_areas_base": "2023-04-25T08:53:24Z",
+    "timestamp_osm_base": "2023-04-28T10:09:53Z",
+    "timestamp_areas_base": "2023-04-28T07:25:54Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -435,6 +435,27 @@
     "operator": "Comune di Bosco Chiesanuova",
     "support": "wall_mounted",
     "wikimedia_commons": "File:DAE_presso_Lughezzano.jpg"
+  }
+},
+{
+  "type": "node",
+  "id": 6229421216,
+  "lat": 45.4431161,
+  "lon": 10.9974487,
+  "tags": {
+    "access": "yes",
+    "addr:city": "Verona",
+    "addr:country": "IT",
+    "addr:housenumber": "20",
+    "addr:postcode": "37121",
+    "addr:street": "Piazza delle Erbe",
+    "defibrillator:location": "L'apparato è installato a sinistra dell'ingresso della Farmacia",
+    "emergency": "defibrillator",
+    "indoor": "no",
+    "name": "Farmacia Centrale",
+    "opening_hours": "24/7",
+    "outdoor": "yes",
+    "wikimedia_commons": "File:DAE_presso_Farmacia_Centrale_Verona.jpg"
   }
 },
 {
