@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.60 f4c14d41",
   "osm3s": {
-    "timestamp_osm_base": "2023-05-07T10:09:54Z",
-    "timestamp_areas_base": "2023-05-07T08:19:23Z",
+    "timestamp_osm_base": "2023-05-10T10:11:08Z",
+    "timestamp_areas_base": "2023-05-10T07:09:59Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -637,8 +637,13 @@
   "lat": 45.7692131,
   "lon": 10.8644427,
   "tags": {
+    "access": "customers",
+    "check_date": "2023-05-03",
+    "defibrillator:location": "Sulla parete dell'armadietto.",
     "emergency": "defibrillator",
-    "name": "Stazione arrivo funivia Monte Baldo"
+    "indoor": "yes",
+    "name": "Stazione arrivo funivia Monte Baldo",
+    "operator": "Funivia Monte Baldo"
   }
 },
 {
@@ -666,14 +671,18 @@
   "lat": 45.7661537,
   "lon": 10.8133141,
   "tags": {
+    "access": "customers",
     "addr:city": "Malcesine",
     "addr:country": "IT",
     "addr:housenumber": "12",
     "addr:postcode": "37018",
     "addr:street": "Via Navene Vecchia",
+    "check_date": "2023-05-03",
+    "defibrillator:location": "Sulla parete dell'armadietto.",
     "emergency": "defibrillator",
     "indoor": "yes",
-    "name": "Stazione partenza funivia Monte Baldo"
+    "name": "Stazione partenza funivia Monte Baldo",
+    "operator": "Funivia Monte Baldo"
   }
 },
 {
@@ -752,7 +761,7 @@
     "defibrillator:location": "L'apparato è installato sulla desta dell'ingresso della Chiesa della Disciplina",
     "emergency": "defibrillator",
     "indoor": "no",
-    "name": "Chiesa della Disciplina",
+    "name": "Defibrillatore",
     "opening_hours": "24/7",
     "wheelchair": "yes"
   }
@@ -2427,6 +2436,20 @@
     "emergency": "defibrillator",
     "name": "Attraversamento ciclabile",
     "opening_hours": "24/7"
+  }
+},
+{
+  "type": "node",
+  "id": 10875960405,
+  "lat": 45.7661357,
+  "lon": 10.8082671,
+  "tags": {
+    "access": "customers",
+    "check_date": "2023-05-03",
+    "defibrillator:location:pl": "W gablocie na ścianie wiaty.",
+    "emergency": "defibrillator",
+    "indoor": "yes",
+    "level": "0"
   }
 }
 
