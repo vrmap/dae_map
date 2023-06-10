@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.60.6 e2dc3e5b",
   "osm3s": {
-    "timestamp_osm_base": "2023-06-07T10:10:39Z",
-    "timestamp_areas_base": "2023-06-07T07:44:42Z",
+    "timestamp_osm_base": "2023-06-10T10:08:53Z",
+    "timestamp_areas_base": "2023-06-10T07:27:51Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -2452,6 +2452,16 @@
     "emergency": "defibrillator",
     "indoor": "yes",
     "name": "Scuola primaria Cesare Betteloni"
+  }
+},
+{
+  "type": "node",
+  "id": 10963051198,
+  "lat": 45.7057021,
+  "lon": 10.7653369,
+  "tags": {
+    "access": "yes",
+    "emergency": "defibrillator"
   }
 }
 
