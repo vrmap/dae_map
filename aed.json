@@ -1,9 +1,9 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.61.2 bd0cdeae",
+  "generator": "Overpass API 0.7.61.4 df4c946a",
   "osm3s": {
-    "timestamp_osm_base": "2023-07-22T10:08:59Z",
-    "timestamp_areas_base": "2023-07-20T07:57:18Z",
+    "timestamp_osm_base": "2023-07-25T10:11:00Z",
+    "timestamp_areas_base": "2023-07-25T06:53:11Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -2422,6 +2422,7 @@
     "addr:street": "Via della Vittoria",
     "defibrillator:location": "Installato in prossimità dell'attraversamento ciclabile",
     "emergency": "defibrillator",
+    "indoor": "no",
     "name": "Attraversamento ciclabile",
     "opening_hours": "24/7"
   }
