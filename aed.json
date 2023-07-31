@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.61.4 df4c946a",
   "osm3s": {
-    "timestamp_osm_base": "2023-07-28T10:10:11Z",
-    "timestamp_areas_base": "2023-07-28T04:54:28Z",
+    "timestamp_osm_base": "2023-07-31T10:10:55Z",
+    "timestamp_areas_base": "2023-07-31T05:29:02Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -2480,6 +2480,15 @@
     "name": "Farmacia San Giuseppe",
     "opening_hours": "24/7",
     "support": "wall_mounted"
+  }
+},
+{
+  "type": "node",
+  "id": 11074686093,
+  "lat": 45.5407600,
+  "lon": 10.7792644,
+  "tags": {
+    "emergency": "defibrillator"
   }
 }
 
