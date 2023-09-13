@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.61.5 4133829e",
   "osm3s": {
-    "timestamp_osm_base": "2023-09-10T10:08:28Z",
-    "timestamp_areas_base": "2023-09-10T06:39:39Z",
+    "timestamp_osm_base": "2023-09-13T10:10:16Z",
+    "timestamp_areas_base": "2023-09-13T05:47:00Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -2500,6 +2500,15 @@
     "description": "Outside of the building.",
     "emergency": "defibrillator",
     "name": "AED - Defibrillator"
+  }
+},
+{
+  "type": "node",
+  "id": 11185340137,
+  "lat": 45.6133612,
+  "lon": 10.6879890,
+  "tags": {
+    "emergency": "defibrillator"
   }
 }
 
