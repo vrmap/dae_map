@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.61.5 4133829e",
   "osm3s": {
-    "timestamp_osm_base": "2023-09-16T10:08:30Z",
-    "timestamp_areas_base": "2023-09-16T04:49:14Z",
+    "timestamp_osm_base": "2023-09-19T10:10:46Z",
+    "timestamp_areas_base": "2023-09-19T05:23:00Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -2509,6 +2509,40 @@
   "lon": 10.6879890,
   "tags": {
     "emergency": "defibrillator"
+  }
+},
+{
+  "type": "node",
+  "id": 11199552990,
+  "lat": 45.3691616,
+  "lon": 10.9240928,
+  "tags": {
+    "addr:city": "Alpo",
+    "addr:country": "IT",
+    "addr:postcode": "37062",
+    "addr:street": "Via Ennio Piazzola",
+    "emergency": "defibrillator",
+    "name": "Impianti sportivi"
+  }
+},
+{
+  "type": "node",
+  "id": 11199553001,
+  "lat": 45.3732241,
+  "lon": 10.9455505,
+  "tags": {
+    "access": "yes",
+    "addr:city": "Rizza",
+    "addr:country": "IT",
+    "addr:housenumber": "7",
+    "addr:postcode": "37125",
+    "addr:street": "Piazza 24 Febbraio 1945",
+    "defibrillator:location": "Installato a destra dell'ingresso della Parrocchia.",
+    "emergency": "defibrillator",
+    "indoor": "no",
+    "name": "Parrocchia",
+    "opening_hours": "24/7",
+    "outdoor": "yes"
   }
 }
 
