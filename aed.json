@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.61.5 4133829e",
   "osm3s": {
-    "timestamp_osm_base": "2023-10-01T10:09:00Z",
-    "timestamp_areas_base": "2023-10-01T05:25:00Z",
+    "timestamp_osm_base": "2023-10-04T10:10:53Z",
+    "timestamp_areas_base": "2023-10-04T04:58:29Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -2543,6 +2543,16 @@
     "name": "Parrocchia",
     "opening_hours": "24/7",
     "outdoor": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11234524367,
+  "lat": 45.7642691,
+  "lon": 10.8088182,
+  "tags": {
+    "access": "yes",
+    "emergency": "defibrillator"
   }
 }
 
