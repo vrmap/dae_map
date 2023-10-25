@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.61.5 4133829e",
   "osm3s": {
-    "timestamp_osm_base": "2023-10-22T10:09:16Z",
-    "timestamp_areas_base": "2023-10-22T05:20:00Z",
+    "timestamp_osm_base": "2023-10-25T10:10:00Z",
+    "timestamp_areas_base": "2023-10-25T09:18:41Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -2553,6 +2553,24 @@
   "tags": {
     "access": "yes",
     "emergency": "defibrillator"
+  }
+},
+{
+  "type": "node",
+  "id": 11281689220,
+  "lat": 45.5551322,
+  "lon": 10.7761770,
+  "tags": {
+    "access": "yes",
+    "addr:city": "Affi",
+    "addr:country": "IT",
+    "addr:postcode": "37010",
+    "addr:street": "Via Stazione",
+    "defibrillator:location": "Installato presso l'entrata del Bici Grill",
+    "emergency": "defibrillator",
+    "name": "Bici Grill Affi",
+    "opening_hours": "24/7",
+    "support": "wall_mounted"
   }
 }
 
