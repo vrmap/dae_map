@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.61.5 4133829e",
   "osm3s": {
-    "timestamp_osm_base": "2023-11-04T10:09:00Z",
-    "timestamp_areas_base": "2023-11-04T07:01:11Z",
+    "timestamp_osm_base": "2023-11-07T10:10:15Z",
+    "timestamp_areas_base": "2023-11-07T05:56:15Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -169,6 +169,7 @@
     "addr:housenumber": "13",
     "addr:postcode": "37139",
     "addr:street": "Via Beniamino Romagnoli",
+    "defibrillator:location": "Dae is missing",
     "emergency": "defibrillator",
     "indoor": "no",
     "name": "Oratorio XVI secolo",
@@ -2400,7 +2401,7 @@
     "access": "yes",
     "addr:city": "Verona",
     "addr:country": "IT",
-    "addr:housenumber": "8/A",
+    "addr:housenumber": "8a",
     "addr:postcode": "37136",
     "addr:street": "Via Po",
     "defibrillator:location": "L'apparato è installato all'angolo a sinistra dell'ingresso della Farmacia.",
