@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.61.5 4133829e",
   "osm3s": {
-    "timestamp_osm_base": "2023-11-07T10:10:15Z",
-    "timestamp_areas_base": "2023-11-07T05:56:15Z",
+    "timestamp_osm_base": "2023-11-10T10:10:00Z",
+    "timestamp_areas_base": "2023-11-10T05:06:30Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -2572,6 +2572,27 @@
     "name": "Bici Grill Affi",
     "opening_hours": "24/7",
     "support": "wall_mounted"
+  }
+},
+{
+  "type": "node",
+  "id": 11336191613,
+  "lat": 45.4746298,
+  "lon": 10.8475073,
+  "tags": {
+    "access": "yes",
+    "addr:city": "Bussolengo",
+    "addr:country": "IT",
+    "addr:housenumber": "18",
+    "addr:postcode": "37012",
+    "addr:street": "Piazza della Libertà",
+    "defibrillator:location": "All'interno della colonnina di ricarica e-bike. In the bike charging station.",
+    "emergency": "defibrillator",
+    "indoor": "no",
+    "name": "E-bike charging station",
+    "opening_hours": "24/7",
+    "outdoor": "yes",
+    "wikimedia_commons": "File:Colonnina di ricarica E-bike BOSCH posta nel comune di Bussolengo (VR) 03.jpg"
   }
 }
 
