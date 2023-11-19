@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.61.5 4133829e",
   "osm3s": {
-    "timestamp_osm_base": "2023-11-16T10:11:00Z",
-    "timestamp_areas_base": "2023-11-16T08:55:33Z",
+    "timestamp_osm_base": "2023-11-19T10:09:30Z",
+    "timestamp_areas_base": "2023-11-19T07:56:30Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -1060,7 +1060,7 @@
     "access": "customers",
     "addr:city": "Verona",
     "addr:country": "IT",
-    "addr:housenumber": "26F",
+    "addr:housenumber": "26f",
     "addr:postcode": "37135",
     "addr:street": "Via dell'Esperanto",
     "defibrillator:location": "L'apparato è installato nella zona delle casse.",
@@ -1541,7 +1541,7 @@
     "access": "yes",
     "addr:city": "Isolalta",
     "addr:country": "IT",
-    "addr:housenumber": "40B",
+    "addr:housenumber": "40b",
     "defibrillator:location": "L'apparato è installato a destra dell'ingresso della sala civica Alcide de Gasperi",
     "emergency": "defibrillator",
     "name": "Sala Civica Alcide de Gasperi",
