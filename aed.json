@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.61.5 4133829e",
   "osm3s": {
-    "timestamp_osm_base": "2023-12-13T10:10:54Z",
-    "timestamp_areas_base": "2023-12-13T07:36:26Z",
+    "timestamp_osm_base": "2023-12-16T10:09:05Z",
+    "timestamp_areas_base": "2023-12-16T07:20:05Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -2615,6 +2615,24 @@
     "access": "yes",
     "emergency": "defibrillator",
     "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 11415072574,
+  "lat": 45.4148803,
+  "lon": 10.9246941,
+  "tags": {
+    "access": "yes",
+    "addr:city": "Verona",
+    "addr:country": "IT",
+    "addr:housenumber": "63/H",
+    "addr:street": "Via Sommacampagna",
+    "defibrillator:location": "L'apparato è installato a destra dell'ingresso C edificio Euroffice One",
+    "emergency": "defibrillator",
+    "indoor": "yes",
+    "level": "0",
+    "name": "Euroffice One"
   }
 }
 
