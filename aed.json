@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.61.5 4133829e",
   "osm3s": {
-    "timestamp_osm_base": "2024-03-13T10:10:30Z",
-    "timestamp_areas_base": "2024-03-13T04:31:15Z",
+    "timestamp_osm_base": "2024-03-16T10:10:30Z",
+    "timestamp_areas_base": "2024-03-16T06:39:21Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -1808,6 +1808,7 @@
     "addr:street": "Via Bartolomeo Giuliari",
     "defibrillator:location": "Il defibrillatore è installato sull'angolo della farmacia",
     "emergency": "defibrillator",
+    "indoor": "no",
     "name": "Farmacia Bacchini",
     "opening_hours": "24/7",
     "wheelchair": "yes",
