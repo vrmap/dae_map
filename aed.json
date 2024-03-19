@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.61.5 4133829e",
   "osm3s": {
-    "timestamp_osm_base": "2024-03-16T10:10:30Z",
-    "timestamp_areas_base": "2024-03-16T06:39:21Z",
+    "timestamp_osm_base": "2024-03-19T10:10:00Z",
+    "timestamp_areas_base": "2024-03-19T08:43:54Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -2636,6 +2636,17 @@
     "indoor": "yes",
     "level": "0",
     "name": "Euroffice One"
+  }
+},
+{
+  "type": "node",
+  "id": 11738743009,
+  "lat": 45.6393110,
+  "lon": 11.0019798,
+  "tags": {
+    "defibrillator:location": "Al muro",
+    "emergency": "defibrillator",
+    "indoor": "no"
   }
 }
 
