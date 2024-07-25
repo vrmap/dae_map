@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.1 084b4234",
   "osm3s": {
-    "timestamp_osm_base": "2024-07-22T10:12:14Z",
-    "timestamp_areas_base": "2024-07-22T05:23:29Z",
+    "timestamp_osm_base": "2024-07-25T10:11:58Z",
+    "timestamp_areas_base": "2024-07-25T04:30:03Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -450,6 +450,7 @@
     "addr:housenumber": "20",
     "addr:postcode": "37121",
     "addr:street": "Piazza delle Erbe",
+    "check_date": "2024-07-22",
     "defibrillator:location": "L'apparato è installato a sinistra dell'ingresso della Farmacia",
     "emergency": "defibrillator",
     "indoor": "no",
