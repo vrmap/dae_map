@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.1 084b4234",
   "osm3s": {
-    "timestamp_osm_base": "2024-08-01T10:12:29Z",
-    "timestamp_areas_base": "2024-08-01T04:25:52Z",
+    "timestamp_osm_base": "2024-08-04T10:10:45Z",
+    "timestamp_areas_base": "2024-08-04T09:03:00Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -2736,6 +2736,17 @@
     "defibrillator:location": "DAE3 Palazzo ex Economia",
     "emergency": "defibrillator",
     "indoor": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12090412119,
+  "lat": 45.5944260,
+  "lon": 11.2099425,
+  "tags": {
+    "defibrillator:location": "Sotto il portico",
+    "emergency": "defibrillator",
+    "indoor": "no"
   }
 }
 
