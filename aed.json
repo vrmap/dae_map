@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.1 084b4234",
   "osm3s": {
-    "timestamp_osm_base": "2024-09-01T10:10:55Z",
-    "timestamp_areas_base": "2024-09-01T07:27:45Z",
+    "timestamp_osm_base": "2024-09-04T10:11:58Z",
+    "timestamp_areas_base": "2024-09-04T06:08:22Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -14,6 +14,7 @@
   "lat": 45.4351343,
   "lon": 10.9846565,
   "tags": {
+    "access": "yes",
     "addr:city": "Verona",
     "addr:country": "IT",
     "addr:housenumber": "2b",
@@ -21,6 +22,7 @@
     "addr:street": "Piazza Santo Spirito",
     "defibrillator:location": "L'apparato è installato a sinistra dell'ingresso della farmacia",
     "emergency": "defibrillator",
+    "indoor": "no",
     "name": "Farmacia Comunale Grattacielo",
     "opening_hours": "24/7",
     "wheelchair": "yes",
@@ -2331,6 +2333,7 @@
   "lon": 10.8325945,
   "tags": {
     "access": "yes",
+    "defibrillator:location": "Tra le due porte al pian terreno, la teca è inglobata nella mappa del comune",
     "emergency": "defibrillator",
     "indoor": "no",
     "name": "Farmacia"
@@ -2681,16 +2684,6 @@
   "tags": {
     "emergency": "defibrillator",
     "indoor": "yes"
-  }
-},
-{
-  "type": "node",
-  "id": 11987184016,
-  "lat": 45.4337898,
-  "lon": 10.8325774,
-  "tags": {
-    "emergency": "defibrillator",
-    "indoor": "no"
   }
 },
 {
