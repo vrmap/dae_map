@@ -2,7 +2,7 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.1 084b4234",
   "osm3s": {
-    "timestamp_osm_base": "2024-09-19T10:13:15Z",
+    "timestamp_osm_base": "2024-09-22T10:11:59Z",
     "timestamp_areas_base": "2024-09-16T09:46:45Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
@@ -2756,6 +2756,15 @@
     "opening_hours": "Mo 13:30-19:30; Tu-Su 08:30-19:30; Dec 25 off; Jan 01 off",
     "operator": "Museo Archeologico",
     "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 12192474682,
+  "lat": 45.3619160,
+  "lon": 10.7308727,
+  "tags": {
+    "emergency": "defibrillator"
   }
 }
 
