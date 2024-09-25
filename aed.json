@@ -2,7 +2,7 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.1 084b4234",
   "osm3s": {
-    "timestamp_osm_base": "2024-09-22T10:11:59Z",
+    "timestamp_osm_base": "2024-09-25T10:14:43Z",
     "timestamp_areas_base": "2024-09-16T09:46:45Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
@@ -811,8 +811,8 @@
 {
   "type": "node",
   "id": 6636558007,
-  "lat": 45.6955255,
-  "lon": 11.1188534,
+  "lat": 45.6955337,
+  "lon": 11.1189212,
   "tags": {
     "addr:city": "Selva di Progno",
     "addr:country": "IT",
@@ -822,8 +822,7 @@
     "addr:street": "Via Revolto di Sopra",
     "defibrillator:location": "L'apparato è installato all'interno dietro il bancone.",
     "emergency": "defibrillator",
-    "indoor": "yes",
-    "name": "Rifugio Revolto"
+    "indoor": "yes"
   }
 },
 {
@@ -2763,6 +2762,15 @@
   "id": 12192474682,
   "lat": 45.3619160,
   "lon": 10.7308727,
+  "tags": {
+    "emergency": "defibrillator"
+  }
+},
+{
+  "type": "node",
+  "id": 12192796518,
+  "lat": 45.3579027,
+  "lon": 10.7339311,
   "tags": {
     "emergency": "defibrillator"
   }
