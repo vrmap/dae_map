@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.1 084b4234",
   "osm3s": {
-    "timestamp_osm_base": "2024-10-01T10:14:30Z",
-    "timestamp_areas_base": "2024-09-16T09:46:45Z",
+    "timestamp_osm_base": "2024-10-04T10:13:51Z",
+    "timestamp_areas_base": "2024-09-24T16:29:52Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -2773,6 +2773,22 @@
   "lon": 10.7339311,
   "tags": {
     "emergency": "defibrillator"
+  }
+},
+{
+  "type": "node",
+  "id": 12216079979,
+  "lat": 45.3517261,
+  "lon": 10.8292324,
+  "tags": {
+    "access": "permissive",
+    "check_date": "2024-09-28",
+    "defibrillator:location": "All'interno della piscina, a destra dopo l'ingresso dell'edificio, alla base delle gradinate",
+    "defibrillator:location:en": "After the entrance to the building on the right",
+    "emergency": "defibrillator",
+    "indoor": "yes",
+    "level": "0",
+    "operator": "Acquamore"
   }
 }
 
