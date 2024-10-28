@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.1 084b4234",
   "osm3s": {
-    "timestamp_osm_base": "2024-10-25T10:13:30Z",
-    "timestamp_areas_base": "2024-10-25T06:28:27Z",
+    "timestamp_osm_base": "2024-10-28T10:14:27Z",
+    "timestamp_areas_base": "2024-10-28T04:16:44Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -1749,6 +1749,7 @@
     "addr:street": "Piazza Alcide De Gasperi",
     "defibrillator:location": "L'apparato è unstallato sull'angolo a destra dell'ingresso della farmacia",
     "emergency": "defibrillator",
+    "indoor": "yes",
     "name": "Farmacia Fiorini",
     "opening_hours": "24/7",
     "outdoor": "yes",
