@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.4 2390de5a",
   "osm3s": {
-    "timestamp_osm_base": "2024-12-01T10:13:14Z",
-    "timestamp_areas_base": "2024-12-01T05:19:16Z",
+    "timestamp_osm_base": "2024-12-04T10:15:23Z",
+    "timestamp_areas_base": "2024-12-04T06:30:40Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -2765,7 +2765,10 @@
   "lat": 45.3619160,
   "lon": 10.7308727,
   "tags": {
-    "emergency": "defibrillator"
+    "defibrillator:location": "Parte destra del chiosco del bar",
+    "emergency": "defibrillator",
+    "indoor": "no",
+    "wikimedia_commons": "File:DAE Giardino Sigurtà.jpg"
   }
 },
 {
