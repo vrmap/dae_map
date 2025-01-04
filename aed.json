@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.4 2390de5a",
   "osm3s": {
-    "timestamp_osm_base": "2025-01-01T10:12:57Z",
-    "timestamp_areas_base": "2025-01-01T05:29:59Z",
+    "timestamp_osm_base": "2025-01-04T10:12:15Z",
+    "timestamp_areas_base": "2024-12-31T00:49:33Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -1190,6 +1190,7 @@
     "indoor": "yes",
     "name": "Decathlon",
     "opening_hours": "Mo-Sa 09:00-21:00; Su 09:30-20:00",
+    "operator": "Decathlon",
     "wikimedia_commons": "File:DAE_presso_Decathlon_San_Giovanni_Lupatoto.jpg"
   }
 },
@@ -1273,6 +1274,7 @@
     "indoor": "yes",
     "name": "Decathlon",
     "opening_hours": "Mo-Su 09:00-20:30",
+    "operator": "Decathlon",
     "wheelchair": "yes",
     "wikimedia_commons": "File:Defibrillatore Decathlon Dossobuono.jpg"
   }
@@ -2851,6 +2853,17 @@
   "lat": 45.4395039,
   "lon": 10.9595188,
   "tags": {
+    "emergency": "defibrillator",
+    "indoor": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12471789204,
+  "lat": 45.4032029,
+  "lon": 10.9077697,
+  "tags": {
+    "defibrillator:location": "zona arrivi vicino alle toilets",
     "emergency": "defibrillator",
     "indoor": "yes"
   }
