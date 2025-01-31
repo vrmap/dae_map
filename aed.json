@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.4 2390de5a",
   "osm3s": {
-    "timestamp_osm_base": "2025-01-28T10:13:30Z",
-    "timestamp_areas_base": "2025-01-28T06:35:46Z",
+    "timestamp_osm_base": "2025-01-31T10:12:40Z",
+    "timestamp_areas_base": "2025-01-31T08:33:35Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -2865,6 +2865,18 @@
   "lon": 10.9077697,
   "tags": {
     "defibrillator:location": "zona arrivi vicino alle toilets",
+    "emergency": "defibrillator",
+    "indoor": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12540069003,
+  "lat": 45.4417077,
+  "lon": 11.0083194,
+  "tags": {
+    "access": "customers",
+    "defibrillator:location": "Istituto Giorgi",
     "emergency": "defibrillator",
     "indoor": "yes"
   }
