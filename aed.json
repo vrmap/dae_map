@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.4 2390de5a",
   "osm3s": {
-    "timestamp_osm_base": "2025-01-31T10:12:40Z",
-    "timestamp_areas_base": "2025-01-31T08:33:35Z",
+    "timestamp_osm_base": "2025-02-01T10:11:15Z",
+    "timestamp_areas_base": "2024-12-31T00:49:33Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -2879,6 +2879,18 @@
     "defibrillator:location": "Istituto Giorgi",
     "emergency": "defibrillator",
     "indoor": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12548680402,
+  "lat": 45.2179207,
+  "lon": 11.2841150,
+  "tags": {
+    "access": "yes",
+    "defibrillator:location": "Municipio Angiari",
+    "emergency": "defibrillator",
+    "indoor": "no"
   }
 }
 
