@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.4 2390de5a",
   "osm3s": {
-    "timestamp_osm_base": "2025-02-04T10:13:12Z",
-    "timestamp_areas_base": "2025-02-04T07:42:41Z",
+    "timestamp_osm_base": "2025-02-07T10:13:13Z",
+    "timestamp_areas_base": "2024-12-31T00:49:33Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -2891,6 +2891,18 @@
     "defibrillator:location": "Municipio Angiari",
     "emergency": "defibrillator",
     "indoor": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12557680801,
+  "lat": 45.4412481,
+  "lon": 11.0043683,
+  "tags": {
+    "access": "private",
+    "defibrillator:location": "Caserma Polizia di Stato",
+    "emergency": "defibrillator",
+    "indoor": "yes"
   }
 }
 
