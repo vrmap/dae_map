@@ -2,7 +2,7 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.5 1bd436f1",
   "osm3s": {
-    "timestamp_osm_base": "2025-03-28T10:13:34Z",
+    "timestamp_osm_base": "2025-03-31T10:14:30Z",
     "timestamp_areas_base": "2024-12-31T00:49:33Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
@@ -944,27 +944,6 @@
     "defibrillator:location": "L'apparato è installato presso la segreteria del campo sportivo",
     "emergency": "defibrillator",
     "name": "Centro sportivo di Grezzana"
-  }
-},
-{
-  "type": "node",
-  "id": 6969339967,
-  "lat": 45.4401840,
-  "lon": 11.0124541,
-  "tags": {
-    "access": "yes",
-    "addr:city": "Verona",
-    "addr:country": "IT",
-    "addr:housenumber": "71",
-    "addr:postcode": "37129",
-    "addr:street": "Via San Nazaro",
-    "defibrillator:location": "L'apparato è installato a destra dell'ingresso della Farmacia",
-    "emergency": "defibrillator",
-    "indoor": "no",
-    "name": "Farmacia alla Concezione",
-    "opening_hours": "24/7",
-    "wheelchair": "yes",
-    "wikimedia_commons": "File:Defibrillatore Farmacia alla Concezione.jpg"
   }
 },
 {
