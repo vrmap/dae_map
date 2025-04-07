@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.5 1bd436f1",
   "osm3s": {
-    "timestamp_osm_base": "2025-04-04T10:14:29Z",
-    "timestamp_areas_base": "2024-12-31T00:49:33Z",
+    "timestamp_osm_base": "2025-04-07T10:15:26Z",
+    "timestamp_areas_base": "2025-02-06T02:17:44Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -1429,6 +1429,7 @@
     "addr:housenumber": "1",
     "addr:postcode": "37023",
     "addr:street": "Via Roma",
+    "defibrillator:location": "Androne d'ingresso sulla destra",
     "emergency": "defibrillator",
     "indoor": "no",
     "name": "Comune di Grezzana"
@@ -2884,6 +2885,18 @@
     "defibrillator:location": "Caserma Polizia di Stato",
     "emergency": "defibrillator",
     "indoor": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12731705801,
+  "lat": 45.4333554,
+  "lon": 11.0093748,
+  "tags": {
+    "access": "yes",
+    "defibrillator:location": "Birreria TiraTardu",
+    "emergency": "defibrillator",
+    "indoor": "no"
   }
 }
 
