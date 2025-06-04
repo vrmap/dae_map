@@ -2,7 +2,7 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.5 1bd436f1",
   "osm3s": {
-    "timestamp_osm_base": "2025-06-01T10:14:40Z",
+    "timestamp_osm_base": "2025-06-04T10:16:30Z",
     "timestamp_areas_base": "2025-05-20T05:45:31Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
@@ -2919,6 +2919,30 @@
   "tags": {
     "access": "yes",
     "emergency": "defibrillator"
+  }
+},
+{
+  "type": "node",
+  "id": 12879279503,
+  "lat": 45.4739112,
+  "lon": 10.9051462,
+  "tags": {
+    "defibrillator:location": "Muro della casa",
+    "emergency": "defibrillator",
+    "indoor": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12881207701,
+  "lat": 45.5748628,
+  "lon": 10.7102440,
+  "tags": {
+    "access": "yes",
+    "check_date": "2025-06-02",
+    "defibrillator:location:de": "At the entrance to the Civil Protection Agency",
+    "emergency": "defibrillator",
+    "indoor": "no"
   }
 }
 
