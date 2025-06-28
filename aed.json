@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.7 375dc00a",
   "osm3s": {
-    "timestamp_osm_base": "2025-06-25T10:16:45Z",
-    "timestamp_areas_base": "2025-06-25T07:12:45Z",
+    "timestamp_osm_base": "2025-06-28T10:14:15Z",
+    "timestamp_areas_base": "2025-06-25T21:32:45Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -2943,6 +2943,19 @@
     "defibrillator:location:de": "At the entrance to the Civil Protection Agency",
     "emergency": "defibrillator",
     "indoor": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12958952902,
+  "lat": 45.4335991,
+  "lon": 10.9875257,
+  "tags": {
+    "access": "private",
+    "defibrillator:location": "all’interno della stazione carabinieri",
+    "emergency": "defibrillator",
+    "indoor": "yes",
+    "phone": "112"
   }
 }
 
