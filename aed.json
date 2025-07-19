@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.7 375dc00a",
   "osm3s": {
-    "timestamp_osm_base": "2025-07-16T10:16:53Z",
-    "timestamp_areas_base": "2025-07-16T03:44:35Z",
+    "timestamp_osm_base": "2025-07-19T10:15:26Z",
+    "timestamp_areas_base": "2025-07-19T05:19:20Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -2908,7 +2908,8 @@
   "lat": 45.4848369,
   "lon": 11.2532250,
   "tags": {
-    "emergency": "defibrillator"
+    "emergency": "defibrillator",
+    "indoor": "no"
   }
 },
 {
@@ -2953,6 +2954,18 @@
   "tags": {
     "access": "private",
     "defibrillator:location": "All’interno della stazione dei Carabinieri",
+    "emergency": "defibrillator",
+    "indoor": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13005981904,
+  "lat": 45.4431521,
+  "lon": 11.0193267,
+  "tags": {
+    "access": "customers",
+    "defibrillator:location": "Scuola Elementare Carducci",
     "emergency": "defibrillator",
     "indoor": "yes"
   }
