@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.7 375dc00a",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-07T10:17:18Z",
-    "timestamp_areas_base": "2025-08-07T05:58:03Z",
+    "timestamp_osm_base": "2025-08-10T10:15:44Z",
+    "timestamp_areas_base": "2025-08-10T05:20:00Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -2238,6 +2238,7 @@
     "addr:housenumber": "4",
     "addr:postcode": "37122",
     "addr:street": "Via Don Carlo Steeb",
+    "defibrillator:location": "All'interno della casa di riposo",
     "emergency": "defibrillator",
     "indoor": "yes",
     "name": "Istituto Assistenza Anziani Don Steeb"
@@ -3014,7 +3015,8 @@
     "access": "yes",
     "defibrillator:location": "Sotto al porticato vicino al bar",
     "emergency": "defibrillator",
-    "indoor": "no"
+    "indoor": "no",
+    "wikimedia_commons": "File:DAE San Giorgio in Salici.jpg"
   }
 }
 
