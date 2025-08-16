@@ -1,9 +1,9 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.7 375dc00a",
+  "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-13T10:16:20Z",
-    "timestamp_areas_base": "2025-08-13T06:48:58Z",
+    "timestamp_osm_base": "2025-08-16T10:14:19Z",
+    "timestamp_areas_base": "2025-08-16T07:08:01Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -1498,25 +1498,6 @@
     "emergency": "defibrillator",
     "indoor": "yes",
     "name": "Biblioteca Comunale di Grezzana"
-  }
-},
-{
-  "type": "node",
-  "id": 8411887316,
-  "lat": 45.4486332,
-  "lon": 10.9876270,
-  "tags": {
-    "access": "yes",
-    "addr:city": "Verona",
-    "addr:country": "IT",
-    "addr:housenumber": "2",
-    "addr:postcode": "37126",
-    "addr:street": "Via Ventiquattro Maggio",
-    "defibrillator:location": "L'apparato è installato a sinistra dell'ingresso della Farmacia.",
-    "emergency": "defibrillator",
-    "name": "Farmacia Martari",
-    "opening_hours": "24/7",
-    "wikimedia_commons": "File:DAE_Farmacia_Martari_Verona.jpg"
   }
 },
 {
