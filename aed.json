@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-16T10:14:19Z",
-    "timestamp_areas_base": "2025-08-16T07:08:01Z",
+    "timestamp_osm_base": "2025-08-19T10:15:30Z",
+    "timestamp_areas_base": "2025-08-19T04:48:04Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -544,8 +544,8 @@
   "lon": 10.7091258,
   "tags": {
     "access": "customers",
+    "description": "Gardaland corsari",
     "emergency": "defibrillator",
-    "name": "Gardaland corsari",
     "wheelchair": "yes"
   }
 },
@@ -1323,6 +1323,9 @@
   "lat": 45.4564588,
   "lon": 10.9825654,
   "tags": {
+    "access": "permit",
+    "check_date": "2025-08-18",
+    "defibrillator:location:it": "A sinistra della chiesa, sotto al portico",
     "emergency": "defibrillator",
     "indoor": "no",
     "operator": "Parrocchia Sacro Cuore di Gesù"
@@ -1819,7 +1822,7 @@
     "addr:housenumber": "8",
     "addr:postcode": "37139",
     "addr:street": "Via San Lucillo",
-    "defibrillator:location": "Il defibrillatore è installato a destra dell'ingresso della farmacia",
+    "defibrillator:location": "Il defibrillatore è installato a sinistra dell'ingresso della farmacia",
     "emergency": "defibrillator",
     "indoor": "no",
     "name": "Farmacia Soave",
