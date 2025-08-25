@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-22T10:15:14Z",
-    "timestamp_areas_base": "2025-08-22T06:57:27Z",
+    "timestamp_osm_base": "2025-08-25T10:16:24Z",
+    "timestamp_areas_base": "2025-08-25T05:40:51Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -3002,6 +3002,19 @@
     "emergency": "defibrillator",
     "indoor": "no",
     "wikimedia_commons": "File:DAE San Giorgio in Salici.jpg"
+  }
+},
+{
+  "type": "node",
+  "id": 13092039494,
+  "lat": 45.5973641,
+  "lon": 11.0394477,
+  "tags": {
+    "access": "yes",
+    "defibrillator:location": "A destra del cancello carraio dell'azienda",
+    "emergency": "defibrillator",
+    "indoor": "no",
+    "wikimedia_commons": "File:DAE zona industriale Corbiolo.jpg"
   }
 }
 
