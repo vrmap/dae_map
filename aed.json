@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-25T10:16:24Z",
-    "timestamp_areas_base": "2025-08-25T05:40:51Z",
+    "timestamp_osm_base": "2025-08-28T10:15:15Z",
+    "timestamp_areas_base": "2025-08-28T08:21:44Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -1668,25 +1668,6 @@
 },
 {
   "type": "node",
-  "id": 8971440475,
-  "lat": 45.4258055,
-  "lon": 11.1372782,
-  "tags": {
-    "access": "yes",
-    "addr:city": "Lavagno",
-    "addr:country": "IT",
-    "addr:housenumber": "44",
-    "addr:postcode": "37030",
-    "addr:street": "Via Fontana",
-    "emergency": "defibrillator",
-    "name": "Farmacia Vanzan",
-    "opening_hours": "24/7",
-    "outdoor": "yes",
-    "wheelchair": "yes"
-  }
-},
-{
-  "type": "node",
   "id": 8971897220,
   "lat": 45.1872361,
   "lon": 11.3095008,
@@ -2559,8 +2540,8 @@
 {
   "type": "node",
   "id": 11336191613,
-  "lat": 45.4746298,
-  "lon": 10.8475073,
+  "lat": 45.4746336,
+  "lon": 10.8475081,
   "tags": {
     "access": "yes",
     "addr:city": "Bussolengo",
@@ -3015,6 +2996,18 @@
     "emergency": "defibrillator",
     "indoor": "no",
     "wikimedia_commons": "File:DAE zona industriale Corbiolo.jpg"
+  }
+},
+{
+  "type": "node",
+  "id": 13097871075,
+  "lat": 45.4485715,
+  "lon": 10.8784885,
+  "tags": {
+    "defibrillator:location": "Presso il banco informazioni Conad",
+    "emergency": "defibrillator",
+    "indoor": "yes",
+    "opening_hours": "Mo-Sa 08:30-21:00, SU 08:30-20:00"
   }
 }
 
