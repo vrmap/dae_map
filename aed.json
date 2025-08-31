@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-08-28T10:15:15Z",
-    "timestamp_areas_base": "2025-08-28T08:21:44Z",
+    "timestamp_osm_base": "2025-08-31T10:12:45Z",
+    "timestamp_areas_base": "2025-08-31T08:32:10Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -1050,9 +1050,9 @@
     "defibrillator:location": "L'apparato è installato nella zona delle casse.",
     "emergency": "defibrillator",
     "indoor": "yes",
-    "name": "Bricoman",
+    "name": "Tecnomat",
     "opening_hours": "Mo-Sa 07:00-20:30; Su 08:30-20:00",
-    "operator": "Bricoman",
+    "operator": "Bricoman Italia srl",
     "wheelchair": "yes",
     "wikimedia_commons": "File:DAE_presso_Bricoman_Verona.jpg"
   }
@@ -2988,8 +2988,8 @@
 {
   "type": "node",
   "id": 13092039494,
-  "lat": 45.5973641,
-  "lon": 11.0394477,
+  "lat": 45.5973801,
+  "lon": 11.0394607,
   "tags": {
     "access": "yes",
     "defibrillator:location": "A destra del cancello carraio dell'azienda",
