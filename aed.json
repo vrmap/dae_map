@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-09-07T10:12:00Z",
-    "timestamp_areas_base": "2025-09-07T06:07:27Z",
+    "timestamp_osm_base": "2025-09-10T10:14:30Z",
+    "timestamp_areas_base": "2025-09-10T05:34:08Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -1424,9 +1424,10 @@
 {
   "type": "node",
   "id": 8312009942,
-  "lat": 45.5185858,
-  "lon": 11.0162552,
+  "lat": 45.5185853,
+  "lon": 11.0160687,
   "tags": {
+    "access": "yes",
     "addr:city": "Grezzana",
     "addr:country": "IT",
     "addr:housenumber": "1",
@@ -1434,7 +1435,7 @@
     "addr:street": "Via Roma",
     "defibrillator:location": "Androne d'ingresso sulla destra",
     "emergency": "defibrillator",
-    "indoor": "no",
+    "indoor": "yes",
     "name": "Comune di Grezzana"
   }
 },
@@ -3009,6 +3010,70 @@
     "emergency": "defibrillator",
     "indoor": "yes",
     "opening_hours": "Mo-Sa 08:30-21:00, SU 08:30-20:00"
+  }
+},
+{
+  "type": "node",
+  "id": 13127549860,
+  "lat": 45.6318637,
+  "lon": 10.7263786,
+  "tags": {
+    "emergency": "defibrillator",
+    "indoor": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13127932863,
+  "lat": 45.4397599,
+  "lon": 10.8652590,
+  "tags": {
+    "access": "yes",
+    "defibrillator:location": "All'ingresso del supermercato Rossetto, a sinistra.",
+    "emergency": "defibrillator",
+    "indoor": "yes",
+    "level": "1",
+    "opening_hours": "08:30-21:00"
+  }
+},
+{
+  "type": "node",
+  "id": 13130424991,
+  "lat": 45.6801944,
+  "lon": 10.8170740,
+  "tags": {
+    "access": "yes",
+    "addr:city": "Prada Alta",
+    "emergency": "defibrillator",
+    "name": "Stazione arrivo funivia",
+    "opening_hours": "24/7"
+  }
+},
+{
+  "type": "node",
+  "id": 13130424992,
+  "lat": 45.6769353,
+  "lon": 10.8065354,
+  "tags": {
+    "access": "yes",
+    "addr:city": "Ortigaretta",
+    "emergency": "defibrillator",
+    "name": "Stazione intermedia funivia",
+    "opening_hours": "24/7"
+  }
+},
+{
+  "type": "node",
+  "id": 13130424994,
+  "lat": 45.6734235,
+  "lon": 10.7825636,
+  "tags": {
+    "access": "yes",
+    "addr:city": "Prada Alta",
+    "defibrillator:location": "Installato a destra ingresso WC",
+    "emergency": "defibrillator",
+    "name": "Stazione partenza funivia",
+    "opening_hours": "24/7"
   }
 }
 
