@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-09-22T10:16:00Z",
-    "timestamp_areas_base": "2025-09-22T05:11:18Z",
+    "timestamp_osm_base": "2025-09-25T10:14:54Z",
+    "timestamp_areas_base": "2025-09-25T03:21:25Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -2819,9 +2819,15 @@
   "lat": 45.4032029,
   "lon": 10.9077697,
   "tags": {
-    "defibrillator:location": "zona arrivi vicino alle toilets",
+    "addr:city": "Villafranca di Verona",
+    "addr:housenumber": "1",
+    "addr:postcode": "37069",
+    "addr:street": "Via Aeroporto",
+    "defibrillator:location": "Terminal arrivi vicino alle toilets",
     "emergency": "defibrillator",
-    "indoor": "yes"
+    "indoor": "yes",
+    "name": "Terminal arrivi aeroporto",
+    "opening_hours": "24/7"
   }
 },
 {
