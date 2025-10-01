@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-09-28T10:12:30Z",
-    "timestamp_areas_base": "2025-09-28T06:22:01Z",
+    "timestamp_osm_base": "2025-10-01T10:14:59Z",
+    "timestamp_areas_base": "2025-10-01T02:49:01Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -594,6 +594,7 @@
     "addr:housenumber": "34",
     "addr:postcode": "37062",
     "addr:street": "Via Stazione",
+    "check_date": "2025-09-29",
     "defibrillator:location": "L'apparato è installato a sinistra dell'ingresso della Farmacia Comunale.",
     "emergency": "defibrillator",
     "indoor": "no",
@@ -2770,6 +2771,10 @@
   "lat": 45.3741077,
   "lon": 10.9195010,
   "tags": {
+    "addr:city": "Alpo",
+    "addr:housenumber": "12",
+    "addr:postcode": "37062",
+    "addr:street": "Via Federico di Saluzzo",
     "description": "Installato a sinistra dell'ingresso",
     "emergency": "defibrillator",
     "indoor": "no",
