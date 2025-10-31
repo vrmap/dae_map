@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-10-28T10:16:35Z",
-    "timestamp_areas_base": "2025-10-28T06:44:55Z",
+    "timestamp_osm_base": "2025-10-31T10:15:44Z",
+    "timestamp_areas_base": "2025-10-31T07:17:38Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -3038,8 +3038,8 @@
 {
   "type": "node",
   "id": 13127932863,
-  "lat": 45.4397599,
-  "lon": 10.8652590,
+  "lat": 45.4397279,
+  "lon": 10.8649581,
   "tags": {
     "access": "yes",
     "defibrillator:location": "All'ingresso del supermercato Rossetto, a sinistra.",
