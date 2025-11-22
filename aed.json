@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-11-19T10:16:48Z",
-    "timestamp_areas_base": "2025-11-19T04:50:25Z",
+    "timestamp_osm_base": "2025-11-22T10:13:55Z",
+    "timestamp_areas_base": "2025-11-22T04:24:59Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -27,6 +27,27 @@
     "opening_hours": "24/7",
     "wheelchair": "yes",
     "wikimedia_commons": "File:DAE_presso_farmacia_comunale_Grattacielo_Verona.jpg"
+  }
+},
+{
+  "type": "node",
+  "id": 2191530788,
+  "lat": 45.3498984,
+  "lon": 10.8488548,
+  "tags": {
+    "addr:city": "Villafranca di Verona",
+    "addr:country": "IT",
+    "addr:housenumber": "1",
+    "addr:postcode": "37069",
+    "addr:street": "Piazzale Milite Ignoto",
+    "amenity": "social_facility",
+    "defibrillator:location": "L'apparato è installato all'interno dell'Emporio della Solidarietà",
+    "emergency": "defibrillator",
+    "indoor": "yes",
+    "name": "Emporio Caritas Il Tione",
+    "opening_hours": "Tu 15:00-18:00; Th,Fr 09:00-12:00",
+    "operator": "Caritas",
+    "social_facility": "food_bank"
   }
 },
 {
@@ -2212,23 +2233,6 @@
     "emergency": "defibrillator",
     "indoor": "yes",
     "name": "Istituto Assistenza Anziani Don Steeb"
-  }
-},
-{
-  "type": "node",
-  "id": 10096909916,
-  "lat": 45.3499261,
-  "lon": 10.8489279,
-  "tags": {
-    "addr:city": "Villafranca di Verona",
-    "addr:country": "IT",
-    "addr:postcode": "37069",
-    "addr:street": "Piazzale Milite Ignoto",
-    "defibrillator:location": "L'apparato è installato all'interno dell'Emporio della Solidarietà",
-    "emergency": "defibrillator",
-    "indoor": "yes",
-    "name": "Emporio Caritas Il Tione",
-    "opening_hours": "Tu 15:00-18:30; Th,Fr 09:00-12:00"
   }
 },
 {
