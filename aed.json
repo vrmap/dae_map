@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-11-25T10:18:03Z",
-    "timestamp_areas_base": "2025-11-25T05:35:30Z",
+    "timestamp_osm_base": "2025-11-28T10:16:45Z",
+    "timestamp_areas_base": "2025-11-28T06:07:07Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -3126,6 +3126,28 @@
   "lon": 10.7264907,
   "tags": {
     "defibrillator:location": "Side of the archway",
+    "emergency": "defibrillator",
+    "indoor": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13337073334,
+  "lat": 45.7505345,
+  "lon": 10.7985154,
+  "tags": {
+    "access": "yes",
+    "emergency": "defibrillator",
+    "indoor": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13337078609,
+  "lat": 45.6876712,
+  "lon": 10.7500814,
+  "tags": {
+    "access": "yes",
     "emergency": "defibrillator",
     "indoor": "no"
   }
