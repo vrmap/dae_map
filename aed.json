@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-12-01T10:18:00Z",
-    "timestamp_areas_base": "2025-12-01T08:02:15Z",
+    "timestamp_osm_base": "2025-12-04T10:19:00Z",
+    "timestamp_areas_base": "2025-12-04T03:00:01Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -3159,6 +3159,18 @@
   "lon": 11.0510502,
   "tags": {
     "emergency": "defibrillator"
+  }
+},
+{
+  "type": "node",
+  "id": 13352753490,
+  "lat": 45.4405055,
+  "lon": 10.7636319,
+  "tags": {
+    "access": "yes",
+    "defibrillator:location": "Teca bianca nella piazza di fronte al municipio",
+    "emergency": "defibrillator",
+    "indoor": "no"
   }
 }
 
