@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-12-04T10:19:00Z",
-    "timestamp_areas_base": "2025-12-04T03:00:01Z",
+    "timestamp_osm_base": "2025-12-07T10:13:16Z",
+    "timestamp_areas_base": "2025-12-07T03:44:15Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -395,10 +395,12 @@
   "lat": 45.2971698,
   "lon": 10.8980238,
   "tags": {
+    "access": "yes",
     "addr:city": "Nogarole Rocca",
     "addr:country": "IT",
     "addr:postcode": "37060",
     "emergency": "defibrillator",
+    "indoor": "no",
     "name": "Area di servizio Povegliano Est"
   }
 },
@@ -2097,7 +2099,8 @@
   "lat": 45.2973874,
   "lon": 10.8964882,
   "tags": {
-    "defibrillator:location": "Di fianco all'ingresso Autogrill",
+    "access": "yes",
+    "defibrillator:location": "A destra dell'ingresso Autogrill",
     "emergency": "defibrillator",
     "indoor": "no"
   }
@@ -2460,7 +2463,10 @@
   "lat": 45.5407600,
   "lon": 10.7792644,
   "tags": {
-    "emergency": "defibrillator"
+    "access": "yes",
+    "defibrillator:location": "A sinistra dell'ingresso, all'esterno dell'edificio",
+    "emergency": "defibrillator",
+    "indoor": "no"
   }
 },
 {
@@ -3026,6 +3032,7 @@
     "defibrillator:location": "Presso il banco informazioni Conad",
     "emergency": "defibrillator",
     "indoor": "yes",
+    "level": "0",
     "opening_hours": "Mo-Sa 08:30-21:00, SU 08:30-20:00"
   }
 },
