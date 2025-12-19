@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.8 e802775f",
   "osm3s": {
-    "timestamp_osm_base": "2025-12-16T10:19:00Z",
-    "timestamp_areas_base": "2025-12-16T03:01:57Z",
+    "timestamp_osm_base": "2025-12-19T10:17:45Z",
+    "timestamp_areas_base": "2025-12-19T03:20:07Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -1821,8 +1821,8 @@
 {
   "type": "node",
   "id": 8977881522,
-  "lat": 45.4423607,
-  "lon": 10.9410115,
+  "lat": 45.4423626,
+  "lon": 10.9410303,
   "tags": {
     "access": "yes",
     "addr:city": "Verona",
@@ -1982,8 +1982,8 @@
 {
   "type": "node",
   "id": 9274409419,
-  "lat": 45.5243887,
-  "lon": 11.0420168,
+  "lat": 45.5244309,
+  "lon": 11.0419915,
   "tags": {
     "access": "yes",
     "addr:city": "Romagnano",
