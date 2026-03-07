@@ -2,7 +2,7 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.10 2d4cfc48",
   "osm3s": {
-    "timestamp_osm_base": "2026-03-04T10:30:39Z",
+    "timestamp_osm_base": "2026-03-07T10:17:40Z",
     "timestamp_areas_base": "2026-01-22T23:45:51Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
@@ -2972,6 +2972,7 @@
     "defibrillator:location": "Nella teca nell'angolo della piazza",
     "emergency": "defibrillator",
     "indoor": "no",
+    "mapillary": "1993404794892564",
     "wikimedia_commons": "File:DAE Palazzolo 2026-02-28.jpg"
   }
 },
