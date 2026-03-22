@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-03-19T10:34:29Z",
-    "timestamp_areas_base": "2026-03-19T04:28:45Z",
+    "timestamp_osm_base": "2026-03-22T10:21:45Z",
+    "timestamp_areas_base": "2026-03-22T05:09:35Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -2140,6 +2140,7 @@
   "lat": 45.1814955,
   "lon": 11.1808384,
   "tags": {
+    "check_date": "2026-03-19",
     "emergency": "defibrillator",
     "indoor": "no"
   }
@@ -3193,6 +3194,26 @@
     "access": "yes",
     "check_date": "2026-03-17",
     "defibrillator:location:it": "Sull'angolo dell'edificio, nel portico",
+    "emergency": "defibrillator",
+    "indoor": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13661552987,
+  "lat": 45.1919814,
+  "lon": 11.2129349,
+  "tags": {
+    "emergency": "defibrillator"
+  }
+},
+{
+  "type": "node",
+  "id": 13668554965,
+  "lat": 45.4528831,
+  "lon": 10.8200892,
+  "tags": {
+    "defibrillator:location": "Dietro all'angolo dell'edificio ",
     "emergency": "defibrillator",
     "indoor": "no"
   }
