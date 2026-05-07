@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-05-04T11:42:38Z",
-    "timestamp_areas_base": "2026-05-04T08:23:00Z",
+    "timestamp_osm_base": "2026-05-07T11:42:01Z",
+    "timestamp_areas_base": "2026-05-07T03:58:51Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -3092,9 +3092,12 @@
   "lat": 45.4386087,
   "lon": 10.6939817,
   "tags": {
+    "access": "yes",
+    "defibrillator:location": "Sotto al volto, in una teca gialla",
     "emergency": "defibrillator",
     "indoor": "no",
-    "opening_hours": "24/7"
+    "opening_hours": "24/7",
+    "wikimedia_commons": "File:DAE Peschiera.jpg"
   }
 },
 {
