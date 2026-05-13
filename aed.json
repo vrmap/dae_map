@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-05-10T10:56:01Z",
-    "timestamp_areas_base": "2026-05-10T05:29:00Z",
+    "timestamp_osm_base": "2026-05-13T11:59:13Z",
+    "timestamp_areas_base": "2026-05-13T05:19:32Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -3226,6 +3226,20 @@
     "indoor": "no",
     "operator": "ELMEDGARDA",
     "phone": "+39 0456200094"
+  }
+},
+{
+  "type": "node",
+  "id": 13814486332,
+  "lat": 45.4176043,
+  "lon": 10.8265073,
+  "tags": {
+    "access": "yes",
+    "defibrillator:location": "Muro  verso bancone bar entrando a sinistra",
+    "emergency": "defibrillator",
+    "indoor": "yes",
+    "level": "0",
+    "wheelchair": "limited"
   }
 }
 
