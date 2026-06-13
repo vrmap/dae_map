@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-06-10T12:51:00Z",
-    "timestamp_areas_base": "2026-05-12T07:36:16Z",
+    "timestamp_osm_base": "2026-06-13T11:49:58Z",
+    "timestamp_areas_base": "2026-06-13T07:46:12Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -3266,6 +3266,17 @@
     "indoor": "yes",
     "opening_hours": "Mo-Fr 09:00-22:00",
     "phone": "+39 045 7225 6622"
+  }
+},
+{
+  "type": "node",
+  "id": 13927927641,
+  "lat": 45.4369064,
+  "lon": 10.9825058,
+  "tags": {
+    "defibrillator:location": "A destra della porta, sopra ai gradini ",
+    "emergency": "defibrillator",
+    "indoor": "no"
   }
 }
 
