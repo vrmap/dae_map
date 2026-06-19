@@ -2,7 +2,7 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-06-16T14:58:11Z",
+    "timestamp_osm_base": "2026-06-19T13:30:31Z",
     "timestamp_areas_base": "2026-05-12T07:36:16Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
@@ -2905,6 +2905,7 @@
   "tags": {
     "access": "yes",
     "check_date": "2025-06-02",
+    "defibrillator:location": "Outside in front of the door on the wall",
     "defibrillator:location:de": "At the entrance to the Civil Protection Agency",
     "emergency": "defibrillator",
     "indoor": "no"
@@ -3275,6 +3276,17 @@
   "lon": 10.9825058,
   "tags": {
     "defibrillator:location": "A destra della porta, sopra ai gradini ",
+    "emergency": "defibrillator",
+    "indoor": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 13949471497,
+  "lat": 45.6030608,
+  "lon": 11.0307914,
+  "tags": {
+    "defibrillator:location": "Sulla recinzione esterna, al bordo della strada ",
     "emergency": "defibrillator",
     "indoor": "no"
   }
