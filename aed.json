@@ -2,8 +2,8 @@
   "version": 0.6,
   "generator": "Overpass API 0.7.62.11 87bfad18",
   "osm3s": {
-    "timestamp_osm_base": "2026-06-25T12:11:40Z",
-    "timestamp_areas_base": "2026-06-25T03:36:44Z",
+    "timestamp_osm_base": "2026-06-28T11:42:45Z",
+    "timestamp_areas_base": "2026-06-28T04:14:01Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -309,6 +309,7 @@
     "addr:housenumber": "94",
     "addr:postcode": "37139",
     "addr:street": "Via Aeroporto Angelo Berardi",
+    "check_date": "2026-06-26",
     "defibrillator:location": "L'apparato è installato a sinistra dell'ingresso della farmacia",
     "emergency": "defibrillator",
     "indoor": "no",
